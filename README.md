@@ -42,10 +42,13 @@ TestRefactoringMiner builds on top of RefactoringMiner 2.3.2. We add the Refacto
    6. Select the `jar` file
       
 
-## Configure the output folders
+## Configure the input and output
 
 Please, create on the root folder of the project three other folders:
 1. `clone` - it will host all the repositories' clones
 2. `resultsTRefMiner` - it will receive the outputs from TestRefactoringMiner
 3. `resultsTsDetect` - it will receive the outputs from tsDetect
+
+Please, provide the `.csv` file with the projects' info as an argument. 
+The `.csv` file to our data collection is available in `ICSME-tool/resource/tags.csv`. It has the columns `ID`, `Owner`, `Repository`, `Tag`, and `SHA`. 
 
