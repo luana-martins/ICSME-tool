@@ -1,0 +1,15 @@
+{
+"commits": [
+{
+	"repository": "https://github.com/Netcentric/accesscontroltool.git",
+	"sha1": "bebeebb0fc2da714384b811926a2336e816b0404",
+	"url": "https://github.com/Netcentric/accesscontroltool/commit/bebeebb0fc2da714384b811926a2336e816b0404",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/Netcentric/accesscontroltool.git",
+	"sha1": "df4adfd1a9b943bc0e58434bca217395a035bf82",
+	"url": "https://github.com/Netcentric/accesscontroltool/commit/df4adfd1a9b943bc0e58434bca217395a035bf82",
+	"refactorings": []
+}]
+}
