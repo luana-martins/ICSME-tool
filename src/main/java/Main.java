@@ -30,11 +30,13 @@ public class Main {
     static TestSmellDetector testSmellDetector = new TestSmellDetector(new DefaultThresholds());
     static TsDetectWritter resultsWriter;
     private static Path path = null;
+
     public static void main(String[] args) throws IOException {
 
-        if (args == null) {
-            System.out.println("Please provide the file containing the paths to the collection of test files");
-            return;
+        if (args.length != 4) {
+            System.out.println("Please provide exactly 4 arguments: csv file, tsDetector output folder, " +
+                    "refactoringminer output folder, and folder to clone the projects");
+            System.exit(1);  // Exit with a non-zero status code
         }
 
         // Retrieving the projects data
@@ -42,7 +44,7 @@ public class Main {
         if (!args[0].isEmpty()) {
             File inputFile = new File(args[0]);
             if (!inputFile.exists() || inputFile.isDirectory()) {
-                System.out.println("Please provide a valid file");
+                System.out.println("Please provide a valid file with the projects info");
                 return;
             }
             else{
@@ -50,6 +52,26 @@ public class Main {
             }
         }
 
+        File tsDetectOutput = null;
+        File tRefOutput = null;
+        File cloneOutput = null;
+        if(!args[1].isEmpty() && !args[2].isEmpty() && !args[3].isEmpty()){
+            tsDetectOutput = new File(args[1]);
+            tRefOutput = new File(args[2]);
+            cloneOutput = new File(args[3]);
+            if (!tsDetectOutput.exists() || !tsDetectOutput.isDirectory()) {
+                System.out.println("Please provide a valid folder to save the Test Smell Detector Output");
+                return;
+            }
+            if (!tRefOutput.exists() || !tRefOutput.isDirectory()) {
+                System.out.println("Please provide a valid folder to save the TestRefactoringMiner Output");
+                return;
+            }
+            if (!cloneOutput.exists() || !cloneOutput.isDirectory()) {
+                System.out.println("Please provide a valid folder to clone the projects");
+                return;
+            }
+        }
 
 
         // Clone the project repository
@@ -58,15 +80,15 @@ public class Main {
             List<Project> commitList = entry.getValue();
 
             // Clone project
-            File repository = cloningRepository(id);
+            File repository = cloningRepository(id, cloneOutput.getAbsolutePath());
 
             // Configuring TestRefactoringMiner
             String fileName = id.replace("/", "-");
-            processJSONoption("resultsTRefMiner/"+fileName+".json");
+            processJSONoption(tRefOutput.getAbsolutePath()+"/"+fileName+".json");
             startJSON();
 
             // Configuring tsDetect
-            resultsWriter = TsDetectWritter.createResultsWriter("resultsTsDetect/"+fileName);
+            resultsWriter = TsDetectWritter.createResultsWriter(tsDetectOutput.getAbsolutePath()+"/"+fileName);
             List<String> columnNames;
 
             columnNames = testSmellDetector.getTestSmellNames();
@@ -327,15 +349,15 @@ public class Main {
         return commitsById;
     }
 
-    private static File cloningRepository(String repoName){
-        String diretoryName = "clone/"+repoName;
+    private static File cloningRepository(String repoName, String cloneOutput){
+        String diretoryName = cloneOutput+"/"+repoName;
         File directory = new File(diretoryName);
 
         GHRepository repository = null;
         if(!directory.exists()){
             directory.mkdir();
             try {
-                GitHub github  = GitHub.connectUsingOAuth("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"); // Add your key
+                GitHub github  = GitHub.connectAnonymously(); //GitHub.connectUsingOAuth("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"); // Add your key
                 repository = github.getRepository(repoName);
                 System.out.println("Cloning : " + repository.getName());
 
