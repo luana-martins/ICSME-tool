@@ -1,5 +1,18 @@
 # ICSME-tool
 
+## Executing the JAR file
+
+1. Download the `ICSME-tool.zip` available at `ICSME-tool\resources`.
+2. Open the root folder in the prompt and execute the command:
+   ```cmd
+   java -jar ICSME-tool-0.1-jar-with-dependencies.jar <csv-tags> <tsDetect-output> <testRefMiner-output> <clone-projects>
+   ```
+   As an example, you should provide something similar to:
+   1. `<csv-tags>`: `C:\Users\..\Downloads\tags.csv`
+   2. `<tsDetect-output>`: `C:\Users\..\Downloads\ts` 
+   3. `<testRefMiner-output>`: `C:\Users\..\Downloads\ref` 
+   4. `<clone-projects>`: `C:\Users\..\Downloads\clone`
+
 ## External resources
 
 ### TestSmellDetector
