@@ -1,0 +1,825 @@
+{
+"commits": [
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "4eb05dc1cf986e375f7af74d0ed9e793a1531e7a",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/4eb05dc1cf986e375f7af74d0ed9e793a1531e7a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "676c0ba09933f48271fdb1d1e96b984c7bdb6218",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/676c0ba09933f48271fdb1d1e96b984c7bdb6218",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "4eb05dc1cf986e375f7af74d0ed9e793a1531e7a",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/4eb05dc1cf986e375f7af74d0ed9e793a1531e7a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "3014f2bce7c68d8805989ea92cba329360071649",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/3014f2bce7c68d8805989ea92cba329360071649",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "68e7e08e2f4306f974c2c0b17c8e50fa5a67c4d4",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/68e7e08e2f4306f974c2c0b17c8e50fa5a67c4d4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "68e7e08e2f4306f974c2c0b17c8e50fa5a67c4d4",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/68e7e08e2f4306f974c2c0b17c8e50fa5a67c4d4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "9587d61826a87c205624bfb3c64ead4292b32053",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/9587d61826a87c205624bfb3c64ead4292b32053",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "8d8fec4291028b0eafd3602e92b324ee4c609ec3",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/8d8fec4291028b0eafd3602e92b324ee4c609ec3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "87ff85af3ac3f6b7929ad3a16bca8fd5c10c73ba",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/87ff85af3ac3f6b7929ad3a16bca8fd5c10c73ba",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "cb9607f07ffbc85990585c64d00dd901450eae2b",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/cb9607f07ffbc85990585c64d00dd901450eae2b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "5d4b0044d91c3cc8ac55fc461cad6c14f07a7b22",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/5d4b0044d91c3cc8ac55fc461cad6c14f07a7b22",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "0f8af6b915315c3898c8a8a332453c80bfa96dfb",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/0f8af6b915315c3898c8a8a332453c80bfa96dfb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "0f8af6b915315c3898c8a8a332453c80bfa96dfb",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/0f8af6b915315c3898c8a8a332453c80bfa96dfb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "c2b26edd037d87992f25cc925cfe22242950fa6b",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/c2b26edd037d87992f25cc925cfe22242950fa6b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "c2b26edd037d87992f25cc925cfe22242950fa6b",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/c2b26edd037d87992f25cc925cfe22242950fa6b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "bf0b236f4174f4d9c3ab464ad46c83cc83c820a8",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/bf0b236f4174f4d9c3ab464ad46c83cc83c820a8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "f5b3fda11ea423f0a17da7da8be983d3cd6f30d4",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/f5b3fda11ea423f0a17da7da8be983d3cd6f30d4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "1c86d6801bc53e5842c73365de8fc256f8b59153",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/1c86d6801bc53e5842c73365de8fc256f8b59153",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "70994eea9ccc8d0add04db1cd6ed97c5774c966c",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/70994eea9ccc8d0add04db1cd6ed97c5774c966c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "1d007f78fb215a23c264f0cd57194682f5f3547e",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/1d007f78fb215a23c264f0cd57194682f5f3547e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "1d007f78fb215a23c264f0cd57194682f5f3547e",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/1d007f78fb215a23c264f0cd57194682f5f3547e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "b9602489395391a826f5e290bb6871f4845f8188",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/b9602489395391a826f5e290bb6871f4845f8188",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "732cf69de136126d84b6bc29b685fd33ff96075c",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/732cf69de136126d84b6bc29b685fd33ff96075c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "d5bf15d9f5ec35e257c091796d229d56f1eb607b",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/d5bf15d9f5ec35e257c091796d229d56f1eb607b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "378a7bb190994e3be6d5236289c908d7f9e1d7a6",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/378a7bb190994e3be6d5236289c908d7f9e1d7a6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "0081f4df67476f09e1004bf547231d0c5744d863",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/0081f4df67476f09e1004bf547231d0c5744d863",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "f05a67e22072fead10e6f79a3848fdbd5ffd504e",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/f05a67e22072fead10e6f79a3848fdbd5ffd504e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "4e9777d47668799b2c66a2cff9b9cbc80f60ae7d",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/4e9777d47668799b2c66a2cff9b9cbc80f60ae7d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "14376d45bfefe496f968d0ab44e82774a86709fe",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/14376d45bfefe496f968d0ab44e82774a86709fe",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "b9c67da1011ef778efa4b5a6afd9e58cd7ad4676",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/b9c67da1011ef778efa4b5a6afd9e58cd7ad4676",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "23def16ac420abf4f0c60ea0184e479a869eace7",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/23def16ac420abf4f0c60ea0184e479a869eace7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "1b31b3566d616e372a9f900963b70f84a1a84549",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/1b31b3566d616e372a9f900963b70f84a1a84549",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "4fe4fed05ee2bf519d451d98c361980c2114b82d",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/4fe4fed05ee2bf519d451d98c361980c2114b82d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "23aba9a358bfa8395d6e29d47dcbb78f5b5cc461",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/23aba9a358bfa8395d6e29d47dcbb78f5b5cc461",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "f91286f6dcf130d6fdeec34d6d7f2603de832157",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/f91286f6dcf130d6fdeec34d6d7f2603de832157",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "958d6a35845121a99b9a0147cb399cb008f17359",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/958d6a35845121a99b9a0147cb399cb008f17359",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "794ab44cfbd6c06afa5bdc6083cd51b957fad241",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/794ab44cfbd6c06afa5bdc6083cd51b957fad241",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "425cea69c1a42f00f902f8877d872d276d335668",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/425cea69c1a42f00f902f8877d872d276d335668",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "bb01f5cfdf5ece9e401ace0a938c197c937f5a04",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/bb01f5cfdf5ece9e401ace0a938c197c937f5a04",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "806b7e54bf1da0d8cd881f78fb32945680fb4054",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/806b7e54bf1da0d8cd881f78fb32945680fb4054",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "9d06d2c5d0980cb6b8ecdc4fec6a7947f0135c1c",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/9d06d2c5d0980cb6b8ecdc4fec6a7947f0135c1c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "5fb736eee7d15f64bf67510601c50fa40b23ee02",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/5fb736eee7d15f64bf67510601c50fa40b23ee02",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "0e2d3ae098d367a9c8d4f7b34cbf148c58f8a93c",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/0e2d3ae098d367a9c8d4f7b34cbf148c58f8a93c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "7010700854f6062847501fc63df064ccd43c5802",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/7010700854f6062847501fc63df064ccd43c5802",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "2b951febfc5f066d093dd60eb38d903f333cda44",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/2b951febfc5f066d093dd60eb38d903f333cda44",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "3c15d918c0fb628182ce8711221fb955a3152398",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/3c15d918c0fb628182ce8711221fb955a3152398",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "ded1128ca72131751e837cc4b268c4f5027f9fa7",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/ded1128ca72131751e837cc4b268c4f5027f9fa7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "780688794f512d079698d66fc48ab08865208553",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/780688794f512d079698d66fc48ab08865208553",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "1cfe04628197724faf80ce1560ea391a369579f2",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/1cfe04628197724faf80ce1560ea391a369579f2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "64e3c07cc4d7f9be3826d141abd25b97d58a7702",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/64e3c07cc4d7f9be3826d141abd25b97d58a7702",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "9a2447a2547bad943aa2789bcbc41591b3097d5e",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/9a2447a2547bad943aa2789bcbc41591b3097d5e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "0f3ddb3deafc88ba37e03b00ce5cf775166d003e",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/0f3ddb3deafc88ba37e03b00ce5cf775166d003e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "dd2e3ec449f6eeb303869010c6b480b633dca99c",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/dd2e3ec449f6eeb303869010c6b480b633dca99c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "585524c82617fb6130cabf3475d4d754d2bbdc20",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/585524c82617fb6130cabf3475d4d754d2bbdc20",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "1fda3a77d05d3fecedbe6d6ff62b8eab2fd842e5",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/1fda3a77d05d3fecedbe6d6ff62b8eab2fd842e5",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "94de01fa9ee68b0e0a6d002fb5105980cc0336c3",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/94de01fa9ee68b0e0a6d002fb5105980cc0336c3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "707ef1813812f40c498cd9dccfbcc6610bf574b9",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/707ef1813812f40c498cd9dccfbcc6610bf574b9",
+	"refactorings": [{
+	"type": "Add Parameter",
+	"description": "Add Parameter hasCustomTransportSettings : boolean in method protected minimumSecuritySettingsBuilder(node int, sslOnly boolean, hasCustomTransportSettings boolean) : Settings.Builder from class com.amazon.opendistroforelasticsearch.security.test.AbstractSecurityUnitTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 217,
+		"endLine": 241,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "protected minimumSecuritySettingsBuilder(node int, sslOnly boolean) : Settings.Builder"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 217,
+		"endLine": 217,
+		"startColumn": 90,
+		"endColumn": 124,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "added parameter",
+		"codeElement": "hasCustomTransportSettings : boolean"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 217,
+		"endLine": 239,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with added parameter",
+		"codeElement": "protected minimumSecuritySettingsBuilder(node int, sslOnly boolean, hasCustomTransportSettings boolean) : Settings.Builder"
+}]
+}
+]
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "84b78c2f38a16c496e7b5ac17b3ffd149e960793",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/84b78c2f38a16c496e7b5ac17b3ffd149e960793",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "2adee3f258795bc7bf3a82d4846721021eb93010",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/2adee3f258795bc7bf3a82d4846721021eb93010",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "ac5eb04f9e463ffe30bc18875d4b2c525ec3e7ab",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/ac5eb04f9e463ffe30bc18875d4b2c525ec3e7ab",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "a4dae620e8fa6640b6aca13f7f474749f1bd2963",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/a4dae620e8fa6640b6aca13f7f474749f1bd2963",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "c3ee4ceb3be84b7aaa4c94c87e25186e02836a31",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/c3ee4ceb3be84b7aaa4c94c87e25186e02836a31",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "dfc41db0d0123cd0965d40ee47d61266e560f7e6",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/dfc41db0d0123cd0965d40ee47d61266e560f7e6",
+	"refactorings": [{
+	"type": "Extract Method",
+	"description": "Extract Method private setupCcs(dynamicSecurityConfig DynamicSecurityConfig) : void extracted from private setupCcs() : void in class com.amazon.opendistroforelasticsearch.security.ccstest.CrossClusterSearchTests",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 57,
+		"endLine": 70,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "source method declaration before extraction",
+		"codeElement": "private setupCcs() : void"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 59,
+		"endLine": 59,
+		"startColumn": 9,
+		"endColumn": 64,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code from source method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 61,
+		"endLine": 61,
+		"startColumn": 9,
+		"endColumn": 107,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code from source method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 63,
+		"endLine": 63,
+		"startColumn": 9,
+		"endColumn": 52,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code from source method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 66,
+		"endLine": 66,
+		"startColumn": 9,
+		"endColumn": 126,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code from source method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 67,
+		"endLine": 67,
+		"startColumn": 9,
+		"endColumn": 49,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code from source method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 69,
+		"endLine": 69,
+		"startColumn": 9,
+		"endColumn": 55,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code from source method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 62,
+		"endLine": 62,
+		"startColumn": 9,
+		"endColumn": 29,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code from source method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 68,
+		"endLine": 68,
+		"startColumn": 9,
+		"endColumn": 29,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code from source method declaration",
+		"codeElement": null
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 64,
+		"endLine": 77,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "extracted method declaration",
+		"codeElement": "private setupCcs(dynamicSecurityConfig DynamicSecurityConfig) : void"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 66,
+		"endLine": 66,
+		"startColumn": 9,
+		"endColumn": 64,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code to extracted method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 68,
+		"endLine": 68,
+		"startColumn": 9,
+		"endColumn": 107,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code to extracted method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 70,
+		"endLine": 70,
+		"startColumn": 9,
+		"endColumn": 52,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code to extracted method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 73,
+		"endLine": 73,
+		"startColumn": 9,
+		"endColumn": 126,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code to extracted method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 74,
+		"endLine": 74,
+		"startColumn": 9,
+		"endColumn": 49,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code to extracted method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 76,
+		"endLine": 76,
+		"startColumn": 9,
+		"endColumn": 55,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code to extracted method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 69,
+		"endLine": 69,
+		"startColumn": 9,
+		"endColumn": 52,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code to extracted method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 75,
+		"endLine": 75,
+		"startColumn": 9,
+		"endColumn": 52,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "extracted code to extracted method declaration",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 60,
+		"endLine": 62,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "source method declaration after extraction",
+		"codeElement": "private setupCcs() : void"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/ccstest/CrossClusterSearchTests.java",
+		"startLine": 61,
+		"endLine": 61,
+		"startColumn": 9,
+		"endColumn": 46,
+		"codeElementType": "METHOD_INVOCATION",
+		"description": "extracted method invocation",
+		"codeElement": "setupCcs(new DynamicSecurityConfig())"
+}]
+},
+{
+	"type": "Rename Parameter",
+	"description": "Rename Parameter config : DynamicSecurityConfig to securityConfig : DynamicSecurityConfig in method protected initialize(info ClusterInfo, initTransportClientSettings Settings, securityConfig DynamicSecurityConfig) : void from class com.amazon.opendistroforelasticsearch.security.test.AbstractSecurityUnitTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 175,
+		"endLine": 175,
+		"startColumn": 87,
+		"endColumn": 115,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "original variable declaration",
+		"codeElement": "config : DynamicSecurityConfig"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 175,
+		"endLine": 212,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "protected initialize(info ClusterInfo, initTransportClientSettings Settings, config DynamicSecurityConfig) : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 177,
+		"endLine": 177,
+		"startColumn": 87,
+		"endColumn": 123,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "renamed variable declaration",
+		"codeElement": "securityConfig : DynamicSecurityConfig"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 177,
+		"endLine": 214,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with renamed variable",
+		"codeElement": "protected initialize(info ClusterInfo, initTransportClientSettings Settings, securityConfig DynamicSecurityConfig) : void"
+}]
+},
+{
+	"type": "Extract Variable",
+	"description": "Extract Variable builder : Settings.Builder in method protected minimumSecuritySettingsBuilder(node int, sslOnly boolean) : Settings.Builder from class com.amazon.opendistroforelasticsearch.security.test.AbstractSecurityUnitTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 218,
+		"endLine": 231,
+		"startColumn": 9,
+		"endColumn": 108,
+		"codeElementType": "RETURN_STATEMENT",
+		"description": "statement with the initializer of the extracted variable",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 214,
+		"endLine": 233,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "protected minimumSecuritySettingsBuilder(node int) : Settings.Builder"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 219,
+		"endLine": 231,
+		"startColumn": 26,
+		"endColumn": 95,
+		"codeElementType": "VARIABLE_DECLARATION_STATEMENT",
+		"description": "extracted variable declaration",
+		"codeElement": "builder : Settings.Builder"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 234,
+		"endLine": 234,
+		"startColumn": 13,
+		"endColumn": 111,
+		"codeElementType": "EXPRESSION_STATEMENT",
+		"description": "statement with the name of the extracted variable",
+		"codeElement": null
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 216,
+		"endLine": 239,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with extracted variable",
+		"codeElement": "protected minimumSecuritySettingsBuilder(node int, sslOnly boolean) : Settings.Builder"
+}]
+},
+{
+	"type": "Add Parameter",
+	"description": "Add Parameter sslOnly : boolean in method protected minimumSecuritySettingsBuilder(node int, sslOnly boolean) : Settings.Builder from class com.amazon.opendistroforelasticsearch.security.test.AbstractSecurityUnitTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 214,
+		"endLine": 233,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "protected minimumSecuritySettingsBuilder(node int) : Settings.Builder"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 216,
+		"endLine": 216,
+		"startColumn": 73,
+		"endColumn": 88,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "added parameter",
+		"codeElement": "sslOnly : boolean"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/test/AbstractSecurityUnitTest.java",
+		"startLine": 216,
+		"endLine": 239,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with added parameter",
+		"codeElement": "protected minimumSecuritySettingsBuilder(node int, sslOnly boolean) : Settings.Builder"
+}]
+}
+]
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "8f06d47b33497283ab31c882150a260d5d1b6096",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/8f06d47b33497283ab31c882150a260d5d1b6096",
+	"refactorings": [{
+	"type": "Change Variable Type",
+	"description": "Change Variable Type e : Exception to e : NoHttpResponseException in method public testHTTPPlaintextErrMsg() : void from class com.amazon.opendistroforelasticsearch.security.HttpIntegrationTests",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/HttpIntegrationTests.java",
+		"startLine": 394,
+		"endLine": 394,
+		"startColumn": 18,
+		"endColumn": 29,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "original variable declaration",
+		"codeElement": "e : Exception"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/HttpIntegrationTests.java",
+		"startLine": 381,
+		"endLine": 399,
+		"startColumn": 5,
+		"endColumn": 8,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "public testHTTPPlaintextErrMsg() : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/HttpIntegrationTests.java",
+		"startLine": 397,
+		"endLine": 397,
+		"startColumn": 18,
+		"endColumn": 43,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "changed-type variable declaration",
+		"codeElement": "e : NoHttpResponseException"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/HttpIntegrationTests.java",
+		"startLine": 383,
+		"endLine": 411,
+		"startColumn": 5,
+		"endColumn": 8,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with changed variable type",
+		"codeElement": "public testHTTPPlaintextErrMsg() : void"
+}]
+},
+{
+	"type": "Add Method Annotation",
+	"description": "Add Method Annotation @Ignore in method public testHTTPPlaintextErrMsg() : void from class com.amazon.opendistroforelasticsearch.security.HttpIntegrationTests",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/HttpIntegrationTests.java",
+		"startLine": 381,
+		"endLine": 399,
+		"startColumn": 5,
+		"endColumn": 8,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "public testHTTPPlaintextErrMsg() : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/HttpIntegrationTests.java",
+		"startLine": 384,
+		"endLine": 384,
+		"startColumn": 5,
+		"endColumn": 12,
+		"codeElementType": "ANNOTATION",
+		"description": "added annotation",
+		"codeElement": "@Ignore"
+}, {
+		"filePath": "src/test/java/com/amazon/opendistroforelasticsearch/security/HttpIntegrationTests.java",
+		"startLine": 383,
+		"endLine": 411,
+		"startColumn": 5,
+		"endColumn": 8,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with added annotation",
+		"codeElement": "public testHTTPPlaintextErrMsg() : void"
+}]
+}
+]
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "75af4ce47f8e50031db0cbfa234dda458b295858",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/75af4ce47f8e50031db0cbfa234dda458b295858",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "b69e821a360a774ec2e94dc01390cd61521562d2",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/b69e821a360a774ec2e94dc01390cd61521562d2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/opendistro-for-elasticsearch/security.git",
+	"sha1": "ded1128ca72131751e837cc4b268c4f5027f9fa7",
+	"url": "https://github.com/opendistro-for-elasticsearch/security/commit/ded1128ca72131751e837cc4b268c4f5027f9fa7",
+	"refactorings": []
+}]
+}

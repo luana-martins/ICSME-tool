@@ -1,0 +1,261 @@
+{
+"commits": [
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "df3a82a5744e7ea719bae67aeb9f3aafa935dc4a",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/df3a82a5744e7ea719bae67aeb9f3aafa935dc4a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "8bef6a5e81e1e82233431fb6b2b1133f40794e70",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/8bef6a5e81e1e82233431fb6b2b1133f40794e70",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "761d2754d9e65a3d20e5d75843b783c7750d1333",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/761d2754d9e65a3d20e5d75843b783c7750d1333",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "cec624961df59051f8b3c980edb2ce30135826bc",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/cec624961df59051f8b3c980edb2ce30135826bc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "0e0ce0a46112a4ed9d61d2f476fed52e5b3af444",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/0e0ce0a46112a4ed9d61d2f476fed52e5b3af444",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "3f54c579028ecdab6d300ca68b93f32a2598423c",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/3f54c579028ecdab6d300ca68b93f32a2598423c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "56f86ee8d450e3c0a0434191cd1c7d25b9a6f497",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/56f86ee8d450e3c0a0434191cd1c7d25b9a6f497",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "8eef788175d9f6d6fa79db5ac3352ceca45ee137",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/8eef788175d9f6d6fa79db5ac3352ceca45ee137",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "1311dfa78ff15819cd215f37d90a96133c3b4537",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/1311dfa78ff15819cd215f37d90a96133c3b4537",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "490bb3424c3e6e70bc6cb9cf92ca0c5d18c09b0a",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/490bb3424c3e6e70bc6cb9cf92ca0c5d18c09b0a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "604ad76b0c7de667eea124845b97ede8601f0fc6",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/604ad76b0c7de667eea124845b97ede8601f0fc6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "805b623f022afba0c457392c5d3d6c39b4616127",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/805b623f022afba0c457392c5d3d6c39b4616127",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "75750d4fab6fa552b82e804421e48078f63cf2ec",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/75750d4fab6fa552b82e804421e48078f63cf2ec",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "d31eb801b29b367e697704c247a8341c15e52410",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/d31eb801b29b367e697704c247a8341c15e52410",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "0c87be11e82eb652bdb62da2643e530d48c0b15d",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/0c87be11e82eb652bdb62da2643e530d48c0b15d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "2686880610c044662df81021f7b2732a65a96031",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/2686880610c044662df81021f7b2732a65a96031",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "d506f18b161a0ce54e95c4f93affae128230c46e",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/d506f18b161a0ce54e95c4f93affae128230c46e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "93680806bbfb620f635803abe1f6cbdf64f02389",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/93680806bbfb620f635803abe1f6cbdf64f02389",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "4a95a1af81f584a843e5e8fe4728a8ec5995eca7",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/4a95a1af81f584a843e5e8fe4728a8ec5995eca7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "5e2f1db709a436072ce42dc237352a53c694422d",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/5e2f1db709a436072ce42dc237352a53c694422d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "1d500271b0f9bd9ced8f251491b8a5deefe9501d",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/1d500271b0f9bd9ced8f251491b8a5deefe9501d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "9743bc0b8c7e40bd1d95feffda7ed17f10501377",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/9743bc0b8c7e40bd1d95feffda7ed17f10501377",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "9b2332afcdea23ac08e7363e27613066b8b7ec07",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/9b2332afcdea23ac08e7363e27613066b8b7ec07",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "225d59f4c0f7b143bf82f3e479ea3a6264bb4e5d",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/225d59f4c0f7b143bf82f3e479ea3a6264bb4e5d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "308d02ed2baf66e26b3da061558e6c54ef86edaa",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/308d02ed2baf66e26b3da061558e6c54ef86edaa",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "dbd73d8d1968c65d42dfdb338988f7f5495bd262",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/dbd73d8d1968c65d42dfdb338988f7f5495bd262",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "b6c162da0b8afe81faf922c1a270383798e5f063",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/b6c162da0b8afe81faf922c1a270383798e5f063",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "865ed75c2cdfd31aa671d528629f2002d8f82c11",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/865ed75c2cdfd31aa671d528629f2002d8f82c11",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "bee035ae530c5dfb8191e6e426ba5f8b9f8f65c4",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/bee035ae530c5dfb8191e6e426ba5f8b9f8f65c4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "16f7a8c620c6ee70478a18d412ef3b21a5055969",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/16f7a8c620c6ee70478a18d412ef3b21a5055969",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "9d7509c0ff33c2a7fb882590e4815b38f74597c7",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/9d7509c0ff33c2a7fb882590e4815b38f74597c7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "f9a7cc4f260594a354858d127ee2560b57c2f305",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/f9a7cc4f260594a354858d127ee2560b57c2f305",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "069ca0389e62e255adeba9d11f72387a2adb7092",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/069ca0389e62e255adeba9d11f72387a2adb7092",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "b98c656c51fa4795f77e95e59aa3da2a5bb27c96",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/b98c656c51fa4795f77e95e59aa3da2a5bb27c96",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "d1763841795861185343ae60c1abf5d3d90ea4e1",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/d1763841795861185343ae60c1abf5d3d90ea4e1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "33bdb1b37c1de1f41bd0b84f352e9f5ba3b08fb1",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/33bdb1b37c1de1f41bd0b84f352e9f5ba3b08fb1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "f87de91f7f33886087e09f4e9ba3f4ffc05df034",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/f87de91f7f33886087e09f4e9ba3f4ffc05df034",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "3fa4a00b6c31e45544dd97644e724cf0b039da23",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/3fa4a00b6c31e45544dd97644e724cf0b039da23",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "a24d11be0d7ee90adfaf58b41a4028468927abe9",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/a24d11be0d7ee90adfaf58b41a4028468927abe9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "7396fa9cdef7931f9fd8f1e28810f7517bc6f976",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/7396fa9cdef7931f9fd8f1e28810f7517bc6f976",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "3b5fa1b39db3af6b21c6b3bbb92f20b550cc8c56",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/3b5fa1b39db3af6b21c6b3bbb92f20b550cc8c56",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "8711db374a2823c73556989f23af1f6bb49ddeba",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/8711db374a2823c73556989f23af1f6bb49ddeba",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/cloudbees-oss/zendesk-java-client.git",
+	"sha1": "74299f6c151df56a3f870ef62b75944fc831d8e5",
+	"url": "https://github.com/cloudbees-oss/zendesk-java-client/commit/74299f6c151df56a3f870ef62b75944fc831d8e5",
+	"refactorings": []
+}]
+}

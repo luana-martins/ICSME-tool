@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 24 12:50:56 CEST 2023
+ICSME-tool-0.1.jar>=
+ICSME-tool-0.1-jar-with-dependencies.jar>=
+ICSME-tool-0.1.pom>=

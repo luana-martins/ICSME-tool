@@ -1,0 +1,134 @@
+{
+"commits": [
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "62021fb3299ec6b7e28261caf166e0860c042c03",
+	"url": "https://github.com/demoiselle/framework/commit/62021fb3299ec6b7e28261caf166e0860c042c03",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "8c037a4cf97d6bde1859ee90e4ef7f465a1cc4a1",
+	"url": "https://github.com/demoiselle/framework/commit/8c037a4cf97d6bde1859ee90e4ef7f465a1cc4a1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "947ed1c24152da5858ab6b8e4b8b1565b4b03cae",
+	"url": "https://github.com/demoiselle/framework/commit/947ed1c24152da5858ab6b8e4b8b1565b4b03cae",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "d58a613aff2df747ddd666625cc9ad45b8662ece",
+	"url": "https://github.com/demoiselle/framework/commit/d58a613aff2df747ddd666625cc9ad45b8662ece",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "2b2170e1441288fb7a7133f8ebdddff5f8a50d3f",
+	"url": "https://github.com/demoiselle/framework/commit/2b2170e1441288fb7a7133f8ebdddff5f8a50d3f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "3ab19d93af8436daf9893a83ac16b81b88ebf987",
+	"url": "https://github.com/demoiselle/framework/commit/3ab19d93af8436daf9893a83ac16b81b88ebf987",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "64bce8e8a6c93e9500d141711feff330bcd1a1b8",
+	"url": "https://github.com/demoiselle/framework/commit/64bce8e8a6c93e9500d141711feff330bcd1a1b8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "f70d18a48b9b05305fb52002728368d865a0f09b",
+	"url": "https://github.com/demoiselle/framework/commit/f70d18a48b9b05305fb52002728368d865a0f09b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "ef9617367a275aae9e84e20234bfded08a265b93",
+	"url": "https://github.com/demoiselle/framework/commit/ef9617367a275aae9e84e20234bfded08a265b93",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "eec420e06e245fc406ba0ee52d369c1ccb8697f8",
+	"url": "https://github.com/demoiselle/framework/commit/eec420e06e245fc406ba0ee52d369c1ccb8697f8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "ce4880dfb8ee8a2c17501e8a67d849360238564d",
+	"url": "https://github.com/demoiselle/framework/commit/ce4880dfb8ee8a2c17501e8a67d849360238564d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "08825986e5a017f0b7859572464b0a6ee3be8caf",
+	"url": "https://github.com/demoiselle/framework/commit/08825986e5a017f0b7859572464b0a6ee3be8caf",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "90ad499cf88b389a4e770d961a9a7aa66eae2381",
+	"url": "https://github.com/demoiselle/framework/commit/90ad499cf88b389a4e770d961a9a7aa66eae2381",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "585057dea90ef18d800ac0fce65d3244294817df",
+	"url": "https://github.com/demoiselle/framework/commit/585057dea90ef18d800ac0fce65d3244294817df",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "5e27a63b7180541e983037939d77a798fa8b7e5a",
+	"url": "https://github.com/demoiselle/framework/commit/5e27a63b7180541e983037939d77a798fa8b7e5a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "7ba76e3d6d84b37ee0c3ee517bd345ed28d6414c",
+	"url": "https://github.com/demoiselle/framework/commit/7ba76e3d6d84b37ee0c3ee517bd345ed28d6414c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "19a37bd28cc303955181abedf2289a38541c5c1b",
+	"url": "https://github.com/demoiselle/framework/commit/19a37bd28cc303955181abedf2289a38541c5c1b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "e816712171f849032de8503d34e6d06c60baa9da",
+	"url": "https://github.com/demoiselle/framework/commit/e816712171f849032de8503d34e6d06c60baa9da",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "79964b02995b61b33f457de1384327d19bfc1386",
+	"url": "https://github.com/demoiselle/framework/commit/79964b02995b61b33f457de1384327d19bfc1386",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "894cd4eceb2455e85cad1601b623b864be94aa10",
+	"url": "https://github.com/demoiselle/framework/commit/894cd4eceb2455e85cad1601b623b864be94aa10",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "fa30c6183d227d0d957e8211a0f6b20e9c7b487e",
+	"url": "https://github.com/demoiselle/framework/commit/fa30c6183d227d0d957e8211a0f6b20e9c7b487e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/demoiselle/framework.git",
+	"sha1": "09672c618b6965d1fb599182e068dff524455630",
+	"url": "https://github.com/demoiselle/framework/commit/09672c618b6965d1fb599182e068dff524455630",
+	"refactorings": []
+},

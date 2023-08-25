@@ -1,0 +1,1689 @@
+{
+"commits": [
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5b3a789c82da248de713eb7b770e3c92018e06b9",
+	"url": "https://github.com/zanata/zanata-platform/commit/5b3a789c82da248de713eb7b770e3c92018e06b9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3f5fa5d754a033a2d390213b8eeb750533703bc2",
+	"url": "https://github.com/zanata/zanata-platform/commit/3f5fa5d754a033a2d390213b8eeb750533703bc2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5f3982df625c9600bb8baf3ed5f84cb81e0aefb6",
+	"url": "https://github.com/zanata/zanata-platform/commit/5f3982df625c9600bb8baf3ed5f84cb81e0aefb6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "acc59c0ba6f66306d700fa7c688fa21ab76abf6f",
+	"url": "https://github.com/zanata/zanata-platform/commit/acc59c0ba6f66306d700fa7c688fa21ab76abf6f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "76cbd8dbfbbff29f3bd3aa87f0dfa53341661f9c",
+	"url": "https://github.com/zanata/zanata-platform/commit/76cbd8dbfbbff29f3bd3aa87f0dfa53341661f9c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "84e0d64455e6b0fa6e12f6c0aba500f628fb570a",
+	"url": "https://github.com/zanata/zanata-platform/commit/84e0d64455e6b0fa6e12f6c0aba500f628fb570a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "48dbf6f8377abf6625ae5be2b74e547cccd4c701",
+	"url": "https://github.com/zanata/zanata-platform/commit/48dbf6f8377abf6625ae5be2b74e547cccd4c701",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5e7df302a550e7fdced9524819bb4435db623cef",
+	"url": "https://github.com/zanata/zanata-platform/commit/5e7df302a550e7fdced9524819bb4435db623cef",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "64d28d0a1395e04468f0fc81081a605bdfbb1b31",
+	"url": "https://github.com/zanata/zanata-platform/commit/64d28d0a1395e04468f0fc81081a605bdfbb1b31",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c0349c8cf27ad22fcc5d4145d545011e59e7bcce",
+	"url": "https://github.com/zanata/zanata-platform/commit/c0349c8cf27ad22fcc5d4145d545011e59e7bcce",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "856f808a79f5a6a115af6b9a0a50ac95df2672f4",
+	"url": "https://github.com/zanata/zanata-platform/commit/856f808a79f5a6a115af6b9a0a50ac95df2672f4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6da5f09cc3e0e8cb200cb549fa62ef10e54f1f3d",
+	"url": "https://github.com/zanata/zanata-platform/commit/6da5f09cc3e0e8cb200cb549fa62ef10e54f1f3d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "07b4e7fd89b9331f4149b885225c18136326b1a9",
+	"url": "https://github.com/zanata/zanata-platform/commit/07b4e7fd89b9331f4149b885225c18136326b1a9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3772d7a032e0f3e79269ebfa8eaf3da0c5d70295",
+	"url": "https://github.com/zanata/zanata-platform/commit/3772d7a032e0f3e79269ebfa8eaf3da0c5d70295",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f9e062a428d568a603741c83b3c0aa75c994329b",
+	"url": "https://github.com/zanata/zanata-platform/commit/f9e062a428d568a603741c83b3c0aa75c994329b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d4e46699fd95c6756f3ea0dcc18a6e52e892683a",
+	"url": "https://github.com/zanata/zanata-platform/commit/d4e46699fd95c6756f3ea0dcc18a6e52e892683a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "0bf91a3aea5868dce8372ea2d346a5bf35ccd12c",
+	"url": "https://github.com/zanata/zanata-platform/commit/0bf91a3aea5868dce8372ea2d346a5bf35ccd12c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "0bea1d2e80bf522e3e0a18cef75eadaed74070b3",
+	"url": "https://github.com/zanata/zanata-platform/commit/0bea1d2e80bf522e3e0a18cef75eadaed74070b3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a6d8b695851801aefb73460d6054a55fd043add2",
+	"url": "https://github.com/zanata/zanata-platform/commit/a6d8b695851801aefb73460d6054a55fd043add2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a19e279f93cff869db66882487ae78143f422925",
+	"url": "https://github.com/zanata/zanata-platform/commit/a19e279f93cff869db66882487ae78143f422925",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3139344879a9af90066bdd6fdb425a8f1924f512",
+	"url": "https://github.com/zanata/zanata-platform/commit/3139344879a9af90066bdd6fdb425a8f1924f512",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8aeba3238fcc74cbd8dc1a31b48ca0dcccd70b8b",
+	"url": "https://github.com/zanata/zanata-platform/commit/8aeba3238fcc74cbd8dc1a31b48ca0dcccd70b8b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "60a728946143dec5fea712a742349611cc2114e1",
+	"url": "https://github.com/zanata/zanata-platform/commit/60a728946143dec5fea712a742349611cc2114e1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8aed980920e79155a3b6a3f8263c39c1445d08c3",
+	"url": "https://github.com/zanata/zanata-platform/commit/8aed980920e79155a3b6a3f8263c39c1445d08c3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "fb9e4024334f5808edde0fe939f7d916e4fe716c",
+	"url": "https://github.com/zanata/zanata-platform/commit/fb9e4024334f5808edde0fe939f7d916e4fe716c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "19057824802c59d55c57ec27e8c4107035eb9829",
+	"url": "https://github.com/zanata/zanata-platform/commit/19057824802c59d55c57ec27e8c4107035eb9829",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6e9ebed2efe193fdb002f1385e3bb45d6c38ba77",
+	"url": "https://github.com/zanata/zanata-platform/commit/6e9ebed2efe193fdb002f1385e3bb45d6c38ba77",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "bac615e2733a1c97e7ee7385c2b7096c092bb8de",
+	"url": "https://github.com/zanata/zanata-platform/commit/bac615e2733a1c97e7ee7385c2b7096c092bb8de",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3f26349940c76c2f50eb9cdb7645ab511e4e9fb6",
+	"url": "https://github.com/zanata/zanata-platform/commit/3f26349940c76c2f50eb9cdb7645ab511e4e9fb6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6bb90fb11b7eaf08fddc3146ce1d349a53985701",
+	"url": "https://github.com/zanata/zanata-platform/commit/6bb90fb11b7eaf08fddc3146ce1d349a53985701",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "538657b6e0b9a50b6aa936a77644f153c90c499a",
+	"url": "https://github.com/zanata/zanata-platform/commit/538657b6e0b9a50b6aa936a77644f153c90c499a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "1bb132d449f531cef762a3de4ca69585b66fe983",
+	"url": "https://github.com/zanata/zanata-platform/commit/1bb132d449f531cef762a3de4ca69585b66fe983",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a33d3589bb6cbdbf9d076f0e9432a08004e0b862",
+	"url": "https://github.com/zanata/zanata-platform/commit/a33d3589bb6cbdbf9d076f0e9432a08004e0b862",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "59c50fb6057521c4cb54b362f49b5c647d9707b3",
+	"url": "https://github.com/zanata/zanata-platform/commit/59c50fb6057521c4cb54b362f49b5c647d9707b3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4e0fbfe261378fd28dcf4c73d5053732b82854de",
+	"url": "https://github.com/zanata/zanata-platform/commit/4e0fbfe261378fd28dcf4c73d5053732b82854de",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "167b025a2766eb3ddd4eb5c3f0a138a59aceb91f",
+	"url": "https://github.com/zanata/zanata-platform/commit/167b025a2766eb3ddd4eb5c3f0a138a59aceb91f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "ca29ab5a307d898b1114c3d36849d5f109cd47dd",
+	"url": "https://github.com/zanata/zanata-platform/commit/ca29ab5a307d898b1114c3d36849d5f109cd47dd",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e78a755d1059118d0c7b50109fe7740ffb4c9bea",
+	"url": "https://github.com/zanata/zanata-platform/commit/e78a755d1059118d0c7b50109fe7740ffb4c9bea",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6a5f6269d2bac9083293e713e7788910155a108b",
+	"url": "https://github.com/zanata/zanata-platform/commit/6a5f6269d2bac9083293e713e7788910155a108b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "0c734f1a1f00902eef8825ad8bb45cd77de2f159",
+	"url": "https://github.com/zanata/zanata-platform/commit/0c734f1a1f00902eef8825ad8bb45cd77de2f159",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4188cc2096f69df67afa14e0740df0c01a8d0328",
+	"url": "https://github.com/zanata/zanata-platform/commit/4188cc2096f69df67afa14e0740df0c01a8d0328",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b5d2c117a10b0be9113d0281ecba4ac99c27386b",
+	"url": "https://github.com/zanata/zanata-platform/commit/b5d2c117a10b0be9113d0281ecba4ac99c27386b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e8e8d491ae1d7a516bad5e60c64c4ed78a3ef475",
+	"url": "https://github.com/zanata/zanata-platform/commit/e8e8d491ae1d7a516bad5e60c64c4ed78a3ef475",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "352027599132e8367c2b46620c704cdfef3fc43f",
+	"url": "https://github.com/zanata/zanata-platform/commit/352027599132e8367c2b46620c704cdfef3fc43f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "9acc96098d92b3a7f064f0161816b8dcf0047428",
+	"url": "https://github.com/zanata/zanata-platform/commit/9acc96098d92b3a7f064f0161816b8dcf0047428",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "ae4ff7446273bca9b631591f7791cef961776c0c",
+	"url": "https://github.com/zanata/zanata-platform/commit/ae4ff7446273bca9b631591f7791cef961776c0c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "70cb458aa8bf425e92fe3faee38ed169aa129501",
+	"url": "https://github.com/zanata/zanata-platform/commit/70cb458aa8bf425e92fe3faee38ed169aa129501",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8ab0b6314c724068cad22c7b4449858d5ef3e6d7",
+	"url": "https://github.com/zanata/zanata-platform/commit/8ab0b6314c724068cad22c7b4449858d5ef3e6d7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4333ce2a5b3ddf0f2e825268a64009f44bb47349",
+	"url": "https://github.com/zanata/zanata-platform/commit/4333ce2a5b3ddf0f2e825268a64009f44bb47349",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5be94062f371d7b2113f07ce8af2f9b7e62d04d7",
+	"url": "https://github.com/zanata/zanata-platform/commit/5be94062f371d7b2113f07ce8af2f9b7e62d04d7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "bee5f4adb12e5c43b9a859d6ec50409e145501b7",
+	"url": "https://github.com/zanata/zanata-platform/commit/bee5f4adb12e5c43b9a859d6ec50409e145501b7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "032b434aa545b95231deefb7939e9793e6253ee9",
+	"url": "https://github.com/zanata/zanata-platform/commit/032b434aa545b95231deefb7939e9793e6253ee9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b2f48eb6759d48729d7658a092b1e8266e3d372f",
+	"url": "https://github.com/zanata/zanata-platform/commit/b2f48eb6759d48729d7658a092b1e8266e3d372f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6f673f579c6f5d4142cdd50c033b292bf3aeeb3e",
+	"url": "https://github.com/zanata/zanata-platform/commit/6f673f579c6f5d4142cdd50c033b292bf3aeeb3e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "98b02c27a514f39a0efdc1c42cb7c81a0aabf1da",
+	"url": "https://github.com/zanata/zanata-platform/commit/98b02c27a514f39a0efdc1c42cb7c81a0aabf1da",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4544c428bd08c76e3081acda95434bfd9d47d587",
+	"url": "https://github.com/zanata/zanata-platform/commit/4544c428bd08c76e3081acda95434bfd9d47d587",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "557ee109d8d7243efdf482594dd08fdfa794e495",
+	"url": "https://github.com/zanata/zanata-platform/commit/557ee109d8d7243efdf482594dd08fdfa794e495",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "af24d510b17719daaca3ecb3039c53e0ef057645",
+	"url": "https://github.com/zanata/zanata-platform/commit/af24d510b17719daaca3ecb3039c53e0ef057645",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8e78fba0fa8764c8fb5af85b708a83f4ae9c37a6",
+	"url": "https://github.com/zanata/zanata-platform/commit/8e78fba0fa8764c8fb5af85b708a83f4ae9c37a6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5057ebc40f4a271a6bda6f0328e952e095d67fb4",
+	"url": "https://github.com/zanata/zanata-platform/commit/5057ebc40f4a271a6bda6f0328e952e095d67fb4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a607c6146729d2e7ee6169e6159d07fa34ec02d7",
+	"url": "https://github.com/zanata/zanata-platform/commit/a607c6146729d2e7ee6169e6159d07fa34ec02d7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3a26506061d467f7b2c0c79bf55e60b4e224e79f",
+	"url": "https://github.com/zanata/zanata-platform/commit/3a26506061d467f7b2c0c79bf55e60b4e224e79f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "32f5bb1928eb3ca8a8b176f51329ca7fe242f2eb",
+	"url": "https://github.com/zanata/zanata-platform/commit/32f5bb1928eb3ca8a8b176f51329ca7fe242f2eb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "217ccf802e7c9826cce25e50aa32e055979ac8ee",
+	"url": "https://github.com/zanata/zanata-platform/commit/217ccf802e7c9826cce25e50aa32e055979ac8ee",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4b31649ece5c829614ad4ca2dede640595423148",
+	"url": "https://github.com/zanata/zanata-platform/commit/4b31649ece5c829614ad4ca2dede640595423148",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "ed0083375d1a2168e95e100ca23eb555e0ee33b6",
+	"url": "https://github.com/zanata/zanata-platform/commit/ed0083375d1a2168e95e100ca23eb555e0ee33b6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "bd3c6880b79da087c0768d2e4d46192af1c5ce8c",
+	"url": "https://github.com/zanata/zanata-platform/commit/bd3c6880b79da087c0768d2e4d46192af1c5ce8c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "70f6d134476d59d93549a51db24cc55aa2705b65",
+	"url": "https://github.com/zanata/zanata-platform/commit/70f6d134476d59d93549a51db24cc55aa2705b65",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "218c4cd6bee140588c38a42faa0421ddaabf3ff3",
+	"url": "https://github.com/zanata/zanata-platform/commit/218c4cd6bee140588c38a42faa0421ddaabf3ff3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "dab78408082a5e7015c3e5fd8b9270d4ecb68303",
+	"url": "https://github.com/zanata/zanata-platform/commit/dab78408082a5e7015c3e5fd8b9270d4ecb68303",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "38596465e17240ad01d223aca8758e372d3ebb69",
+	"url": "https://github.com/zanata/zanata-platform/commit/38596465e17240ad01d223aca8758e372d3ebb69",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6294397803ef885d2ae8378e03a2184c0219c0a0",
+	"url": "https://github.com/zanata/zanata-platform/commit/6294397803ef885d2ae8378e03a2184c0219c0a0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "416f30bde22bfcfb508f75f5125cdf7d1ba14e7b",
+	"url": "https://github.com/zanata/zanata-platform/commit/416f30bde22bfcfb508f75f5125cdf7d1ba14e7b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "36020e323ba74c26a98d714394e9e469e9a734e6",
+	"url": "https://github.com/zanata/zanata-platform/commit/36020e323ba74c26a98d714394e9e469e9a734e6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "97e8e18b134d31ab06928733f47d2dcea7bceefe",
+	"url": "https://github.com/zanata/zanata-platform/commit/97e8e18b134d31ab06928733f47d2dcea7bceefe",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "0ac841d5d83c84f56e10ff58d5dcc6fee41ec682",
+	"url": "https://github.com/zanata/zanata-platform/commit/0ac841d5d83c84f56e10ff58d5dcc6fee41ec682",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "be415878365e057b4354f572537251aa20f7129a",
+	"url": "https://github.com/zanata/zanata-platform/commit/be415878365e057b4354f572537251aa20f7129a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4f200755b6c5b78a7a80edc3636e63270bed0e6a",
+	"url": "https://github.com/zanata/zanata-platform/commit/4f200755b6c5b78a7a80edc3636e63270bed0e6a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "bc9433db9aea6177b5097f87af0b65ee6bf127e3",
+	"url": "https://github.com/zanata/zanata-platform/commit/bc9433db9aea6177b5097f87af0b65ee6bf127e3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3c2a6fb4db4cb117c501735d49960cf8425203cc",
+	"url": "https://github.com/zanata/zanata-platform/commit/3c2a6fb4db4cb117c501735d49960cf8425203cc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "1f5faa908d1453feeab37ed1ecff9d7700cb8e25",
+	"url": "https://github.com/zanata/zanata-platform/commit/1f5faa908d1453feeab37ed1ecff9d7700cb8e25",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "029523654f69f1c21e04b8bf277af6074725da47",
+	"url": "https://github.com/zanata/zanata-platform/commit/029523654f69f1c21e04b8bf277af6074725da47",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3e3a3eb48734888d6e9a08c7eaa84cbed1f6a077",
+	"url": "https://github.com/zanata/zanata-platform/commit/3e3a3eb48734888d6e9a08c7eaa84cbed1f6a077",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b2b8cf1f4df4a59be9a185a9557f9c1fbbcfaf31",
+	"url": "https://github.com/zanata/zanata-platform/commit/b2b8cf1f4df4a59be9a185a9557f9c1fbbcfaf31",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d92e1f547b0701c5f8d4800f5efc33a84d5f7936",
+	"url": "https://github.com/zanata/zanata-platform/commit/d92e1f547b0701c5f8d4800f5efc33a84d5f7936",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6588567d9f5c893234e6eb881e3c0de9ebd0df40",
+	"url": "https://github.com/zanata/zanata-platform/commit/6588567d9f5c893234e6eb881e3c0de9ebd0df40",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "04a602b6a6fdbbd25b231cde8ecdb84f960e019d",
+	"url": "https://github.com/zanata/zanata-platform/commit/04a602b6a6fdbbd25b231cde8ecdb84f960e019d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b67b1a11b603b5ab44cbf98526e97d778870df8c",
+	"url": "https://github.com/zanata/zanata-platform/commit/b67b1a11b603b5ab44cbf98526e97d778870df8c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d91a4f1680bf8d28e8d0f4f918e151cec689d830",
+	"url": "https://github.com/zanata/zanata-platform/commit/d91a4f1680bf8d28e8d0f4f918e151cec689d830",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "525c41cd2c4f983d44119c468439e408f5355fa4",
+	"url": "https://github.com/zanata/zanata-platform/commit/525c41cd2c4f983d44119c468439e408f5355fa4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "364b8e7522dddc3d0549dd710548b48ef09f24de",
+	"url": "https://github.com/zanata/zanata-platform/commit/364b8e7522dddc3d0549dd710548b48ef09f24de",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "2f2fd9189b46e54ef2826df2c04b8a032bdb5e60",
+	"url": "https://github.com/zanata/zanata-platform/commit/2f2fd9189b46e54ef2826df2c04b8a032bdb5e60",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3527db7f9e124e4b6a86f8a8c708d5f51db9d7f2",
+	"url": "https://github.com/zanata/zanata-platform/commit/3527db7f9e124e4b6a86f8a8c708d5f51db9d7f2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6a580c49f2dae74d252d9aedc68bd2d1fedba3e4",
+	"url": "https://github.com/zanata/zanata-platform/commit/6a580c49f2dae74d252d9aedc68bd2d1fedba3e4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c56edcedaa7cf37bc8f4c734e8125dc0604ae576",
+	"url": "https://github.com/zanata/zanata-platform/commit/c56edcedaa7cf37bc8f4c734e8125dc0604ae576",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "cdba9638ae8e608c78be5e72a72686ec50d825e4",
+	"url": "https://github.com/zanata/zanata-platform/commit/cdba9638ae8e608c78be5e72a72686ec50d825e4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c575f3413f9e100328c4b5157f129fcdac225a9d",
+	"url": "https://github.com/zanata/zanata-platform/commit/c575f3413f9e100328c4b5157f129fcdac225a9d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "05f1b701775a09890cec6aa2ec6787bb1efc9aca",
+	"url": "https://github.com/zanata/zanata-platform/commit/05f1b701775a09890cec6aa2ec6787bb1efc9aca",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "bca971648ae3e235115463bed68edf6f9905082f",
+	"url": "https://github.com/zanata/zanata-platform/commit/bca971648ae3e235115463bed68edf6f9905082f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "02c2ea9c95abc73b173bdb005d5cd0d4bf32fd86",
+	"url": "https://github.com/zanata/zanata-platform/commit/02c2ea9c95abc73b173bdb005d5cd0d4bf32fd86",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "9c5c573952ce234ea00242f9cc9d26183c2b368f",
+	"url": "https://github.com/zanata/zanata-platform/commit/9c5c573952ce234ea00242f9cc9d26183c2b368f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "2ca4b1d8e8e48b5b87a0da795621ac4a1532c07a",
+	"url": "https://github.com/zanata/zanata-platform/commit/2ca4b1d8e8e48b5b87a0da795621ac4a1532c07a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e01720c70a43cbcd251f672453f12d078d250777",
+	"url": "https://github.com/zanata/zanata-platform/commit/e01720c70a43cbcd251f672453f12d078d250777",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "fab6935aea0081b2414756a77de0accb8307c099",
+	"url": "https://github.com/zanata/zanata-platform/commit/fab6935aea0081b2414756a77de0accb8307c099",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "091eae18ad648346734d5007a64338287b970780",
+	"url": "https://github.com/zanata/zanata-platform/commit/091eae18ad648346734d5007a64338287b970780",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f574baad2591e77da03638126de93637a648fcaa",
+	"url": "https://github.com/zanata/zanata-platform/commit/f574baad2591e77da03638126de93637a648fcaa",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "7783f3f85a238c7addc83dc91e6eb7cce1c5e798",
+	"url": "https://github.com/zanata/zanata-platform/commit/7783f3f85a238c7addc83dc91e6eb7cce1c5e798",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a4f5133a8722b44fec371674d7f8af0bea8d9c12",
+	"url": "https://github.com/zanata/zanata-platform/commit/a4f5133a8722b44fec371674d7f8af0bea8d9c12",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f1f7950680a78299cebf1f420a263f17707f9d49",
+	"url": "https://github.com/zanata/zanata-platform/commit/f1f7950680a78299cebf1f420a263f17707f9d49",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4ccc743505feb13763bee12aa5e4eed5e46ec011",
+	"url": "https://github.com/zanata/zanata-platform/commit/4ccc743505feb13763bee12aa5e4eed5e46ec011",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a9274455849d125c7b0d704afd97ff5d003cf59f",
+	"url": "https://github.com/zanata/zanata-platform/commit/a9274455849d125c7b0d704afd97ff5d003cf59f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "17763943d3e474501471dbf97b5cccfb009c5e84",
+	"url": "https://github.com/zanata/zanata-platform/commit/17763943d3e474501471dbf97b5cccfb009c5e84",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8e7f99ca76333e32ff631a5b48af10f26bde7409",
+	"url": "https://github.com/zanata/zanata-platform/commit/8e7f99ca76333e32ff631a5b48af10f26bde7409",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "dd45235364d7a653360cfbf0bf31d84e0f7099db",
+	"url": "https://github.com/zanata/zanata-platform/commit/dd45235364d7a653360cfbf0bf31d84e0f7099db",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "555aa476766f4e6f7e54355b276e095fe41b46db",
+	"url": "https://github.com/zanata/zanata-platform/commit/555aa476766f4e6f7e54355b276e095fe41b46db",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "878cc2c6ff4dc61530503ee2c8756bdaf72e7c14",
+	"url": "https://github.com/zanata/zanata-platform/commit/878cc2c6ff4dc61530503ee2c8756bdaf72e7c14",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "99001d7bf062f3aac8956b264cbbbcd440174180",
+	"url": "https://github.com/zanata/zanata-platform/commit/99001d7bf062f3aac8956b264cbbbcd440174180",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a87c817d6fddcdbedcb80e1b4a7379113392d14d",
+	"url": "https://github.com/zanata/zanata-platform/commit/a87c817d6fddcdbedcb80e1b4a7379113392d14d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d943ec1c2f826e9c1d3e6fda968eb8d2ba8a6ab8",
+	"url": "https://github.com/zanata/zanata-platform/commit/d943ec1c2f826e9c1d3e6fda968eb8d2ba8a6ab8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5db9cd72719bf0b0fd515b75449e09da0615c606",
+	"url": "https://github.com/zanata/zanata-platform/commit/5db9cd72719bf0b0fd515b75449e09da0615c606",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "ec180c86ca76c9d624cb332c023ac0e44138d654",
+	"url": "https://github.com/zanata/zanata-platform/commit/ec180c86ca76c9d624cb332c023ac0e44138d654",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "af4a2443d29fe0678742d58e5b1029b9fa5f4e93",
+	"url": "https://github.com/zanata/zanata-platform/commit/af4a2443d29fe0678742d58e5b1029b9fa5f4e93",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "bc99327f739f4f86b2aa0106ad373a01d745602a",
+	"url": "https://github.com/zanata/zanata-platform/commit/bc99327f739f4f86b2aa0106ad373a01d745602a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3f26349940c76c2f50eb9cdb7645ab511e4e9fb6",
+	"url": "https://github.com/zanata/zanata-platform/commit/3f26349940c76c2f50eb9cdb7645ab511e4e9fb6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f1e9a04d5015da7caa3b205c88616dc3067e7c33",
+	"url": "https://github.com/zanata/zanata-platform/commit/f1e9a04d5015da7caa3b205c88616dc3067e7c33",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a3472318f23f5a292da74c2ef9e19c75bffc2694",
+	"url": "https://github.com/zanata/zanata-platform/commit/a3472318f23f5a292da74c2ef9e19c75bffc2694",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "24d9544d7948e86fb61ca39cff49760c6489aec6",
+	"url": "https://github.com/zanata/zanata-platform/commit/24d9544d7948e86fb61ca39cff49760c6489aec6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f5315799180935d77721d88fa65b73d1b401507d",
+	"url": "https://github.com/zanata/zanata-platform/commit/f5315799180935d77721d88fa65b73d1b401507d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6a7fb4365bd21d3aeaaa22de753c48aae86b20b4",
+	"url": "https://github.com/zanata/zanata-platform/commit/6a7fb4365bd21d3aeaaa22de753c48aae86b20b4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "266e7e6e8ddc0b0d3b5bc0682d1571d304c76e92",
+	"url": "https://github.com/zanata/zanata-platform/commit/266e7e6e8ddc0b0d3b5bc0682d1571d304c76e92",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "2f7f1941c545af2283418731476f1a3ac79e9ca6",
+	"url": "https://github.com/zanata/zanata-platform/commit/2f7f1941c545af2283418731476f1a3ac79e9ca6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4470c67d7a78a5d9d994475932eafad5f76ce5cb",
+	"url": "https://github.com/zanata/zanata-platform/commit/4470c67d7a78a5d9d994475932eafad5f76ce5cb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "64b51d5c00cef9cf012d75f0dfc8ad22c554ed59",
+	"url": "https://github.com/zanata/zanata-platform/commit/64b51d5c00cef9cf012d75f0dfc8ad22c554ed59",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "639e43d7be35f2ec0d4a90a0976f6ca9b2addce6",
+	"url": "https://github.com/zanata/zanata-platform/commit/639e43d7be35f2ec0d4a90a0976f6ca9b2addce6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "15757edd8cf8e49e9c68bd76ed639170ab0a5a63",
+	"url": "https://github.com/zanata/zanata-platform/commit/15757edd8cf8e49e9c68bd76ed639170ab0a5a63",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "64be06aa1474c34513c9339d3204c03a959b3d28",
+	"url": "https://github.com/zanata/zanata-platform/commit/64be06aa1474c34513c9339d3204c03a959b3d28",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "705948acc8b77cf378f953b8d7f68a7be60a9ab6",
+	"url": "https://github.com/zanata/zanata-platform/commit/705948acc8b77cf378f953b8d7f68a7be60a9ab6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f58d92340b665f6568cfaeb8f4d72a40f25197b0",
+	"url": "https://github.com/zanata/zanata-platform/commit/f58d92340b665f6568cfaeb8f4d72a40f25197b0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "022bec7999ab6728c0ff7b671e010ea554d42e77",
+	"url": "https://github.com/zanata/zanata-platform/commit/022bec7999ab6728c0ff7b671e010ea554d42e77",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8d7881ce850a341c9713dcea961fcea97106ae94",
+	"url": "https://github.com/zanata/zanata-platform/commit/8d7881ce850a341c9713dcea961fcea97106ae94",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a55956eab9a46de25b624929c5ba98605b3b4594",
+	"url": "https://github.com/zanata/zanata-platform/commit/a55956eab9a46de25b624929c5ba98605b3b4594",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b1bcb3ece92ab7c65134abcff87841b389cb0521",
+	"url": "https://github.com/zanata/zanata-platform/commit/b1bcb3ece92ab7c65134abcff87841b389cb0521",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "63231664ced0bc0b896aae1e8a48d00fbdc008b5",
+	"url": "https://github.com/zanata/zanata-platform/commit/63231664ced0bc0b896aae1e8a48d00fbdc008b5",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "bb9fdb32e5d17aabc9aab564d2ade980188d60aa",
+	"url": "https://github.com/zanata/zanata-platform/commit/bb9fdb32e5d17aabc9aab564d2ade980188d60aa",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "0f4f0f80d23b441fb846a3f131dd0192bc891f1c",
+	"url": "https://github.com/zanata/zanata-platform/commit/0f4f0f80d23b441fb846a3f131dd0192bc891f1c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d9f75edb3e3048761b07635877faaaacc157bf7e",
+	"url": "https://github.com/zanata/zanata-platform/commit/d9f75edb3e3048761b07635877faaaacc157bf7e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "856e7431b1973dc9a2b16ab4f89e7766fbfd2859",
+	"url": "https://github.com/zanata/zanata-platform/commit/856e7431b1973dc9a2b16ab4f89e7766fbfd2859",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "0652bb83a1f0580894410032d7f8a852af00ea53",
+	"url": "https://github.com/zanata/zanata-platform/commit/0652bb83a1f0580894410032d7f8a852af00ea53",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "907c7b86b5a8d99cbc55710e093d03fc1bdccc23",
+	"url": "https://github.com/zanata/zanata-platform/commit/907c7b86b5a8d99cbc55710e093d03fc1bdccc23",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "463607cbe5cafffd57c440b29c2c4f37fde13e00",
+	"url": "https://github.com/zanata/zanata-platform/commit/463607cbe5cafffd57c440b29c2c4f37fde13e00",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "42fc5bf22490797852b9dd569a877b65e7241f67",
+	"url": "https://github.com/zanata/zanata-platform/commit/42fc5bf22490797852b9dd569a877b65e7241f67",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "0f04d79cd2bb7d1acfe9b6c66f8e1ec926778808",
+	"url": "https://github.com/zanata/zanata-platform/commit/0f04d79cd2bb7d1acfe9b6c66f8e1ec926778808",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "97a48941267bbbc6a6317b7ed2f77d452fa7fa7e",
+	"url": "https://github.com/zanata/zanata-platform/commit/97a48941267bbbc6a6317b7ed2f77d452fa7fa7e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "de376fff4a9617bbb7c881ab627244819ac89a8d",
+	"url": "https://github.com/zanata/zanata-platform/commit/de376fff4a9617bbb7c881ab627244819ac89a8d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "cc5cf28e97eab8d579d5baf85a28e1e6393765fc",
+	"url": "https://github.com/zanata/zanata-platform/commit/cc5cf28e97eab8d579d5baf85a28e1e6393765fc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a2647412d07e22089c7c42131cb670f353c447ca",
+	"url": "https://github.com/zanata/zanata-platform/commit/a2647412d07e22089c7c42131cb670f353c447ca",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d35ba7785e53932cb6470ec77293e67e266024bf",
+	"url": "https://github.com/zanata/zanata-platform/commit/d35ba7785e53932cb6470ec77293e67e266024bf",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f689f44d52f90cb7c523b29a745243a144c2dfbd",
+	"url": "https://github.com/zanata/zanata-platform/commit/f689f44d52f90cb7c523b29a745243a144c2dfbd",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a70c948c0109dfd105345729a431c3187b673475",
+	"url": "https://github.com/zanata/zanata-platform/commit/a70c948c0109dfd105345729a431c3187b673475",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "97c79e6666d103938811822790151b7d9477b787",
+	"url": "https://github.com/zanata/zanata-platform/commit/97c79e6666d103938811822790151b7d9477b787",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "764536acfb5d9a1eb0debaea12446b8ec203cb7d",
+	"url": "https://github.com/zanata/zanata-platform/commit/764536acfb5d9a1eb0debaea12446b8ec203cb7d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8c6da2ac8c3eea9a26a78aacf307539df160b86f",
+	"url": "https://github.com/zanata/zanata-platform/commit/8c6da2ac8c3eea9a26a78aacf307539df160b86f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e76f7f976c3ed124dc9563d3da14c59fcc58e28d",
+	"url": "https://github.com/zanata/zanata-platform/commit/e76f7f976c3ed124dc9563d3da14c59fcc58e28d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "6fb744a5b93200ee1f15fb9d651c593f53b08190",
+	"url": "https://github.com/zanata/zanata-platform/commit/6fb744a5b93200ee1f15fb9d651c593f53b08190",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "095b37d522cbc0b10f624933d36c36ed9535eca8",
+	"url": "https://github.com/zanata/zanata-platform/commit/095b37d522cbc0b10f624933d36c36ed9535eca8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "638c1802d62ef70185156b89082535f8560fe2be",
+	"url": "https://github.com/zanata/zanata-platform/commit/638c1802d62ef70185156b89082535f8560fe2be",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c3d80edf3c5426f75cfff6242bd854f26adc2b20",
+	"url": "https://github.com/zanata/zanata-platform/commit/c3d80edf3c5426f75cfff6242bd854f26adc2b20",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "52844c238bd9bf96de63b0b68cd4b7955f0ca849",
+	"url": "https://github.com/zanata/zanata-platform/commit/52844c238bd9bf96de63b0b68cd4b7955f0ca849",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "96824ead3f9d1dbf9db27672669bb95c37a96747",
+	"url": "https://github.com/zanata/zanata-platform/commit/96824ead3f9d1dbf9db27672669bb95c37a96747",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5769801ac6613635f955cc56866d3d8b2f019bf7",
+	"url": "https://github.com/zanata/zanata-platform/commit/5769801ac6613635f955cc56866d3d8b2f019bf7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8def7d3aabba1c237cd7331e6f43c5225a6bf0dc",
+	"url": "https://github.com/zanata/zanata-platform/commit/8def7d3aabba1c237cd7331e6f43c5225a6bf0dc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e6f4f5a24653add29e7fd068998575f4291eb5dc",
+	"url": "https://github.com/zanata/zanata-platform/commit/e6f4f5a24653add29e7fd068998575f4291eb5dc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "75dbe061c2381590106a228786d630cf220a68c3",
+	"url": "https://github.com/zanata/zanata-platform/commit/75dbe061c2381590106a228786d630cf220a68c3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e20b508939785f5606f347b4ce1ba967ed2f8e2d",
+	"url": "https://github.com/zanata/zanata-platform/commit/e20b508939785f5606f347b4ce1ba967ed2f8e2d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a0538783beec988894b91f2781b78dcb1f79165e",
+	"url": "https://github.com/zanata/zanata-platform/commit/a0538783beec988894b91f2781b78dcb1f79165e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "06494f61671907ffb6171df550fbdb3e36603f74",
+	"url": "https://github.com/zanata/zanata-platform/commit/06494f61671907ffb6171df550fbdb3e36603f74",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b88b1742e435a5eb1a098b596860051ff135a826",
+	"url": "https://github.com/zanata/zanata-platform/commit/b88b1742e435a5eb1a098b596860051ff135a826",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5d1294b2c819bb396d194960b52ab94386a5dafc",
+	"url": "https://github.com/zanata/zanata-platform/commit/5d1294b2c819bb396d194960b52ab94386a5dafc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "43d170317c7ba50c9006205f8198630690091204",
+	"url": "https://github.com/zanata/zanata-platform/commit/43d170317c7ba50c9006205f8198630690091204",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f3ee6ea423336ff826e9366dc327655bb6eaee5c",
+	"url": "https://github.com/zanata/zanata-platform/commit/f3ee6ea423336ff826e9366dc327655bb6eaee5c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c0f61b1271d2f96de423accd913c6dd2365b7e7e",
+	"url": "https://github.com/zanata/zanata-platform/commit/c0f61b1271d2f96de423accd913c6dd2365b7e7e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3bc6866a4a12e67264d8ed8307c202d39aa73815",
+	"url": "https://github.com/zanata/zanata-platform/commit/3bc6866a4a12e67264d8ed8307c202d39aa73815",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "2085eb7a2b4df02910596312aca5fc73b7d64385",
+	"url": "https://github.com/zanata/zanata-platform/commit/2085eb7a2b4df02910596312aca5fc73b7d64385",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "ced647bfe6d72e183cb7eabcf8e0bfd54675a999",
+	"url": "https://github.com/zanata/zanata-platform/commit/ced647bfe6d72e183cb7eabcf8e0bfd54675a999",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "bc4559c03ba093cd021fd62880c2d3d4155c3ee9",
+	"url": "https://github.com/zanata/zanata-platform/commit/bc4559c03ba093cd021fd62880c2d3d4155c3ee9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a30d8d876c9c6701822602ea9e2d36c971f48998",
+	"url": "https://github.com/zanata/zanata-platform/commit/a30d8d876c9c6701822602ea9e2d36c971f48998",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "70be376b53ad13226d35ce6297f5ef4f417274c1",
+	"url": "https://github.com/zanata/zanata-platform/commit/70be376b53ad13226d35ce6297f5ef4f417274c1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d4b8c5a011e52f6ad203b933440e8094d6f1f5a5",
+	"url": "https://github.com/zanata/zanata-platform/commit/d4b8c5a011e52f6ad203b933440e8094d6f1f5a5",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8cf71a7db791a2d2d01399855bbd2564d322ceab",
+	"url": "https://github.com/zanata/zanata-platform/commit/8cf71a7db791a2d2d01399855bbd2564d322ceab",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a5091f38c10135ebb0b8dbed504436deae60ac04",
+	"url": "https://github.com/zanata/zanata-platform/commit/a5091f38c10135ebb0b8dbed504436deae60ac04",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "047225a5308cfe363868b6258f6d0a36b51324f1",
+	"url": "https://github.com/zanata/zanata-platform/commit/047225a5308cfe363868b6258f6d0a36b51324f1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5d50074d944f7041ef0f38c691925f079d44673e",
+	"url": "https://github.com/zanata/zanata-platform/commit/5d50074d944f7041ef0f38c691925f079d44673e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3a57b4a79fc152be7c8db3020ad4bd9fb6f8e7ba",
+	"url": "https://github.com/zanata/zanata-platform/commit/3a57b4a79fc152be7c8db3020ad4bd9fb6f8e7ba",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "180282e3fcb00ad12de1c5ed424aaf6abd9abd8d",
+	"url": "https://github.com/zanata/zanata-platform/commit/180282e3fcb00ad12de1c5ed424aaf6abd9abd8d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8b5722c124700592304ee3dc8912834c93ecb864",
+	"url": "https://github.com/zanata/zanata-platform/commit/8b5722c124700592304ee3dc8912834c93ecb864",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "97f1a7e382e996f3e0d6a50fa6f037a816b2ba41",
+	"url": "https://github.com/zanata/zanata-platform/commit/97f1a7e382e996f3e0d6a50fa6f037a816b2ba41",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "cce9ff6c9bca66c52668ef96445622b8c9536385",
+	"url": "https://github.com/zanata/zanata-platform/commit/cce9ff6c9bca66c52668ef96445622b8c9536385",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f9a4d6af9fffabf2e17e2316bfe57aaa7f328013",
+	"url": "https://github.com/zanata/zanata-platform/commit/f9a4d6af9fffabf2e17e2316bfe57aaa7f328013",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "79fba5220e84fd90cb2149dfbe63e3421ee47e33",
+	"url": "https://github.com/zanata/zanata-platform/commit/79fba5220e84fd90cb2149dfbe63e3421ee47e33",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "59ef5d815cd9f251f6afd62d971d48bea2d6ac96",
+	"url": "https://github.com/zanata/zanata-platform/commit/59ef5d815cd9f251f6afd62d971d48bea2d6ac96",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "225f564a8cf459dce34191cc0a1c30d264aad6d3",
+	"url": "https://github.com/zanata/zanata-platform/commit/225f564a8cf459dce34191cc0a1c30d264aad6d3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "43992a66413a815341ed747685d89d6fc2273ba0",
+	"url": "https://github.com/zanata/zanata-platform/commit/43992a66413a815341ed747685d89d6fc2273ba0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8caee01e0f6488b3512a5714841434aee414b13e",
+	"url": "https://github.com/zanata/zanata-platform/commit/8caee01e0f6488b3512a5714841434aee414b13e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e74cfcb49127c421d4200760453dc72ad0dabf5f",
+	"url": "https://github.com/zanata/zanata-platform/commit/e74cfcb49127c421d4200760453dc72ad0dabf5f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "51fd2a9e5a90e42b199cc7b7a0836666fdcec8cd",
+	"url": "https://github.com/zanata/zanata-platform/commit/51fd2a9e5a90e42b199cc7b7a0836666fdcec8cd",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "547910070a1520c8866f33d45b92d95714a03bd5",
+	"url": "https://github.com/zanata/zanata-platform/commit/547910070a1520c8866f33d45b92d95714a03bd5",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b77e6ac54701b949ab23b5c43913262c83801224",
+	"url": "https://github.com/zanata/zanata-platform/commit/b77e6ac54701b949ab23b5c43913262c83801224",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c4dbd494996821274c5f8a65fbdb88dd59e572e0",
+	"url": "https://github.com/zanata/zanata-platform/commit/c4dbd494996821274c5f8a65fbdb88dd59e572e0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "fdd0d0e49e58aa2f566eb1d53789ac72f60123ac",
+	"url": "https://github.com/zanata/zanata-platform/commit/fdd0d0e49e58aa2f566eb1d53789ac72f60123ac",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c20ebd8b4add3cc068042c8420feadad2a2fa90b",
+	"url": "https://github.com/zanata/zanata-platform/commit/c20ebd8b4add3cc068042c8420feadad2a2fa90b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d489e8c4fba168fbb3c44c1476a617265088cb6e",
+	"url": "https://github.com/zanata/zanata-platform/commit/d489e8c4fba168fbb3c44c1476a617265088cb6e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "9ebe7cd415e621f4390aae589d4cb9305f82494a",
+	"url": "https://github.com/zanata/zanata-platform/commit/9ebe7cd415e621f4390aae589d4cb9305f82494a",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b6341b70ea77a8bcd369cf6676b5fe9b6749db58",
+	"url": "https://github.com/zanata/zanata-platform/commit/b6341b70ea77a8bcd369cf6676b5fe9b6749db58",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "fafe0608271613cb105ee70de9767ded59c19b60",
+	"url": "https://github.com/zanata/zanata-platform/commit/fafe0608271613cb105ee70de9767ded59c19b60",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c679fd0a84f158d9377ab6e783d0362cbc43db67",
+	"url": "https://github.com/zanata/zanata-platform/commit/c679fd0a84f158d9377ab6e783d0362cbc43db67",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d1fac4c0eab9a6850befc3feabc893be45594201",
+	"url": "https://github.com/zanata/zanata-platform/commit/d1fac4c0eab9a6850befc3feabc893be45594201",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e05d58ec187b1df47edd6e25ac1dd61e90caffca",
+	"url": "https://github.com/zanata/zanata-platform/commit/e05d58ec187b1df47edd6e25ac1dd61e90caffca",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "1d8d9c9801a6dda0467281e2e9ea7faf519c4c16",
+	"url": "https://github.com/zanata/zanata-platform/commit/1d8d9c9801a6dda0467281e2e9ea7faf519c4c16",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "1e4afafa063a4e37654fe76a4794587c8b5e6a1e",
+	"url": "https://github.com/zanata/zanata-platform/commit/1e4afafa063a4e37654fe76a4794587c8b5e6a1e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "00ceb5e11a0054e14214530c498d29100ca2390d",
+	"url": "https://github.com/zanata/zanata-platform/commit/00ceb5e11a0054e14214530c498d29100ca2390d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b36cb5fc7627eed6e706982b7ab942a002f62284",
+	"url": "https://github.com/zanata/zanata-platform/commit/b36cb5fc7627eed6e706982b7ab942a002f62284",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "19e315c79876e6a99dc1a08981d247bd0b91c4cb",
+	"url": "https://github.com/zanata/zanata-platform/commit/19e315c79876e6a99dc1a08981d247bd0b91c4cb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "32ab4f5d493d13941a3b4060f079057b8c98db96",
+	"url": "https://github.com/zanata/zanata-platform/commit/32ab4f5d493d13941a3b4060f079057b8c98db96",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "53899c17c2939244f077a15ae78c3bbd2e9aa05c",
+	"url": "https://github.com/zanata/zanata-platform/commit/53899c17c2939244f077a15ae78c3bbd2e9aa05c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a6eb5e9ead9f4603f3dabfc245ab1b0058ffaf23",
+	"url": "https://github.com/zanata/zanata-platform/commit/a6eb5e9ead9f4603f3dabfc245ab1b0058ffaf23",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "aed9d0603a1101dc9f2a3bf805bed1d9bfdcc568",
+	"url": "https://github.com/zanata/zanata-platform/commit/aed9d0603a1101dc9f2a3bf805bed1d9bfdcc568",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "0056a34e5a1f44bdc67407d5bf80faccfca22ca2",
+	"url": "https://github.com/zanata/zanata-platform/commit/0056a34e5a1f44bdc67407d5bf80faccfca22ca2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5eca28c2cf841906659b1e1a485a1d23530d20e6",
+	"url": "https://github.com/zanata/zanata-platform/commit/5eca28c2cf841906659b1e1a485a1d23530d20e6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "306e9c5fc806f824607c455d77fb487874999161",
+	"url": "https://github.com/zanata/zanata-platform/commit/306e9c5fc806f824607c455d77fb487874999161",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5395752c127d8168df371e7ba2f1879053489f0d",
+	"url": "https://github.com/zanata/zanata-platform/commit/5395752c127d8168df371e7ba2f1879053489f0d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "306a81f157e5567b643669beb432288fa852f8e5",
+	"url": "https://github.com/zanata/zanata-platform/commit/306a81f157e5567b643669beb432288fa852f8e5",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e1449cce337408562c53151eb25e3741902796c4",
+	"url": "https://github.com/zanata/zanata-platform/commit/e1449cce337408562c53151eb25e3741902796c4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "7d7e4a551e3ca5c7e8ac71c0facecb2e0d1434f6",
+	"url": "https://github.com/zanata/zanata-platform/commit/7d7e4a551e3ca5c7e8ac71c0facecb2e0d1434f6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "78db6025769a5fdf216e25dc8bee468bdcd0a3a9",
+	"url": "https://github.com/zanata/zanata-platform/commit/78db6025769a5fdf216e25dc8bee468bdcd0a3a9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a01320407f192ed14e50a898b10886547eb5505d",
+	"url": "https://github.com/zanata/zanata-platform/commit/a01320407f192ed14e50a898b10886547eb5505d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3cbd403819f9ec317702697af011a01b4e23bc67",
+	"url": "https://github.com/zanata/zanata-platform/commit/3cbd403819f9ec317702697af011a01b4e23bc67",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "1e27db30fd252c8e8adf8557e3acd54e011c7e6e",
+	"url": "https://github.com/zanata/zanata-platform/commit/1e27db30fd252c8e8adf8557e3acd54e011c7e6e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "2fc44fe844c37a6a20bb298fc03b325529232bff",
+	"url": "https://github.com/zanata/zanata-platform/commit/2fc44fe844c37a6a20bb298fc03b325529232bff",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f257b460a2cbe452efc63354a3600fca83f273e7",
+	"url": "https://github.com/zanata/zanata-platform/commit/f257b460a2cbe452efc63354a3600fca83f273e7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b2528e489cd7b8321d822fb9653db7204a4fbaed",
+	"url": "https://github.com/zanata/zanata-platform/commit/b2528e489cd7b8321d822fb9653db7204a4fbaed",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "1f6be0cd69f79d8779b7698f910042139ab17ec6",
+	"url": "https://github.com/zanata/zanata-platform/commit/1f6be0cd69f79d8779b7698f910042139ab17ec6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "148c014fdbfe6434669157a30e8746b2cf7e87d6",
+	"url": "https://github.com/zanata/zanata-platform/commit/148c014fdbfe6434669157a30e8746b2cf7e87d6",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d6712ba75d450564fed0b3a3d12ddf80bd80ac5b",
+	"url": "https://github.com/zanata/zanata-platform/commit/d6712ba75d450564fed0b3a3d12ddf80bd80ac5b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "ae4368d4d59eb8de66c3059d182d94812658ea4e",
+	"url": "https://github.com/zanata/zanata-platform/commit/ae4368d4d59eb8de66c3059d182d94812658ea4e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3225bb1a1a8896204ea30df91d990e2bca3d95ae",
+	"url": "https://github.com/zanata/zanata-platform/commit/3225bb1a1a8896204ea30df91d990e2bca3d95ae",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "7567b88d8d9be5d75ee54bd473648a8a0e7e3afb",
+	"url": "https://github.com/zanata/zanata-platform/commit/7567b88d8d9be5d75ee54bd473648a8a0e7e3afb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "44ef48218d7f5926d949c89dfa49af84c04d7af9",
+	"url": "https://github.com/zanata/zanata-platform/commit/44ef48218d7f5926d949c89dfa49af84c04d7af9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "99c5e3c479049697438affb9980ff3baa808cf13",
+	"url": "https://github.com/zanata/zanata-platform/commit/99c5e3c479049697438affb9980ff3baa808cf13",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "891814e131aa2dddad14ca7893f4988fbb7acd4b",
+	"url": "https://github.com/zanata/zanata-platform/commit/891814e131aa2dddad14ca7893f4988fbb7acd4b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "7a08cde088d623efc99b986c6c628131cca93b20",
+	"url": "https://github.com/zanata/zanata-platform/commit/7a08cde088d623efc99b986c6c628131cca93b20",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a5678d4bede1e611e6a652a4200946dcb7966106",
+	"url": "https://github.com/zanata/zanata-platform/commit/a5678d4bede1e611e6a652a4200946dcb7966106",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a9fde3620413d75f39776c70076ee7df89728d70",
+	"url": "https://github.com/zanata/zanata-platform/commit/a9fde3620413d75f39776c70076ee7df89728d70",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c3d424b288b336d27dbcec0224ead40b858ae997",
+	"url": "https://github.com/zanata/zanata-platform/commit/c3d424b288b336d27dbcec0224ead40b858ae997",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "dace5eb3f397ca56a38d6a6116122afa4d533244",
+	"url": "https://github.com/zanata/zanata-platform/commit/dace5eb3f397ca56a38d6a6116122afa4d533244",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "3aad4edfce95c74b6d07fa966034408f9b442a1d",
+	"url": "https://github.com/zanata/zanata-platform/commit/3aad4edfce95c74b6d07fa966034408f9b442a1d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4784c55136744e8dd1824b0891988e4ad8435ed9",
+	"url": "https://github.com/zanata/zanata-platform/commit/4784c55136744e8dd1824b0891988e4ad8435ed9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f2dc6edabd8eba3ec7472d33a15f8de93851a997",
+	"url": "https://github.com/zanata/zanata-platform/commit/f2dc6edabd8eba3ec7472d33a15f8de93851a997",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "573479449ee4c24bd0db5d7505ddaac21ed9da10",
+	"url": "https://github.com/zanata/zanata-platform/commit/573479449ee4c24bd0db5d7505ddaac21ed9da10",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "7d55399eec583aa0697b0bfff4e305bebe3a8dc4",
+	"url": "https://github.com/zanata/zanata-platform/commit/7d55399eec583aa0697b0bfff4e305bebe3a8dc4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4ed5c566909d39ff3a9d4ea75d5813cfb7a42ff8",
+	"url": "https://github.com/zanata/zanata-platform/commit/4ed5c566909d39ff3a9d4ea75d5813cfb7a42ff8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "8ed1e5e7ab0d1ee2c322bf77a0e5278fe4936115",
+	"url": "https://github.com/zanata/zanata-platform/commit/8ed1e5e7ab0d1ee2c322bf77a0e5278fe4936115",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "30c536ec09440fbc815439c33fc5a5a58f9b9ba4",
+	"url": "https://github.com/zanata/zanata-platform/commit/30c536ec09440fbc815439c33fc5a5a58f9b9ba4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "98701888235a4a43d4d2037be9cee52a8bf3a298",
+	"url": "https://github.com/zanata/zanata-platform/commit/98701888235a4a43d4d2037be9cee52a8bf3a298",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "5bb0d791dc85af1b9a03447602c0845b2dc4c815",
+	"url": "https://github.com/zanata/zanata-platform/commit/5bb0d791dc85af1b9a03447602c0845b2dc4c815",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "64d904735518a7948f4634b831c0513aef2eef50",
+	"url": "https://github.com/zanata/zanata-platform/commit/64d904735518a7948f4634b831c0513aef2eef50",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "7801adf88675f35612ec9f9a7ecb754fd3753b36",
+	"url": "https://github.com/zanata/zanata-platform/commit/7801adf88675f35612ec9f9a7ecb754fd3753b36",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "edcc0d721ec5ff0f05ad0990e043b6bb6b9590ed",
+	"url": "https://github.com/zanata/zanata-platform/commit/edcc0d721ec5ff0f05ad0990e043b6bb6b9590ed",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "7da8e305ab65c6e08ed9ce9f9602fe4a12fa2f13",
+	"url": "https://github.com/zanata/zanata-platform/commit/7da8e305ab65c6e08ed9ce9f9602fe4a12fa2f13",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "b37d11a76456c646dff032c6e03b5f4e7ff535d1",
+	"url": "https://github.com/zanata/zanata-platform/commit/b37d11a76456c646dff032c6e03b5f4e7ff535d1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "a8a772aaa03725db12f89293c608f460f28761bc",
+	"url": "https://github.com/zanata/zanata-platform/commit/a8a772aaa03725db12f89293c608f460f28761bc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "e888753fc11d7c24b2ffbba8edde368dba66c3c1",
+	"url": "https://github.com/zanata/zanata-platform/commit/e888753fc11d7c24b2ffbba8edde368dba66c3c1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "04d91ad8fd4cb8d481f2e9744e929d68226d06ec",
+	"url": "https://github.com/zanata/zanata-platform/commit/04d91ad8fd4cb8d481f2e9744e929d68226d06ec",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "c908ab166a52ede58883276627c686f9c3fc1a22",
+	"url": "https://github.com/zanata/zanata-platform/commit/c908ab166a52ede58883276627c686f9c3fc1a22",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "1880a601275a47c17ecb6b0d34401f2deb461383",
+	"url": "https://github.com/zanata/zanata-platform/commit/1880a601275a47c17ecb6b0d34401f2deb461383",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f81d55a7f9fea3ce55c307e47e2976d7077a7cfd",
+	"url": "https://github.com/zanata/zanata-platform/commit/f81d55a7f9fea3ce55c307e47e2976d7077a7cfd",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "f10802f294aa88abc4883f5c4a88229d1678fccb",
+	"url": "https://github.com/zanata/zanata-platform/commit/f10802f294aa88abc4883f5c4a88229d1678fccb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "be8b06dafa2eb8c48a3cae95ccda9dd9fc6b9400",
+	"url": "https://github.com/zanata/zanata-platform/commit/be8b06dafa2eb8c48a3cae95ccda9dd9fc6b9400",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "023a14801cae42e1f174f39b4d7ee4790e4cc924",
+	"url": "https://github.com/zanata/zanata-platform/commit/023a14801cae42e1f174f39b4d7ee4790e4cc924",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "2d245ccd6e4c60c4d4679a33372fddfbacb66872",
+	"url": "https://github.com/zanata/zanata-platform/commit/2d245ccd6e4c60c4d4679a33372fddfbacb66872",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "4d38a20a063cd0ef2a5186d360c71fa4cdf811f2",
+	"url": "https://github.com/zanata/zanata-platform/commit/4d38a20a063cd0ef2a5186d360c71fa4cdf811f2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/zanata/zanata-platform.git",
+	"sha1": "d1a0d4daef30c621b1716bc9a5a3aca126d963de",
+	"url": "https://github.com/zanata/zanata-platform/commit/d1a0d4daef30c621b1716bc9a5a3aca126d963de",
+	"refactorings": []
+}]
+}

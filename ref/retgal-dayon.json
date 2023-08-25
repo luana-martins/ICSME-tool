@@ -1,0 +1,531 @@
+{
+"commits": [
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c0b7dfc32a1eae32b1d0cd12a27c7cb31d110d89",
+	"url": "https://github.com/RetGal/Dayon/commit/c0b7dfc32a1eae32b1d0cd12a27c7cb31d110d89",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c505ead70940acbd0165d1f75c72e9df2b12ff3d",
+	"url": "https://github.com/RetGal/Dayon/commit/c505ead70940acbd0165d1f75c72e9df2b12ff3d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c4941f9990578d532c2ca253609bd73ef7cb3195",
+	"url": "https://github.com/RetGal/Dayon/commit/c4941f9990578d532c2ca253609bd73ef7cb3195",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "9d154e7f5cdf8d772610337969708a4876609ab8",
+	"url": "https://github.com/RetGal/Dayon/commit/9d154e7f5cdf8d772610337969708a4876609ab8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "6674749c91d34bff311a81b4a5c37e978c789c40",
+	"url": "https://github.com/RetGal/Dayon/commit/6674749c91d34bff311a81b4a5c37e978c789c40",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "014db8502f46aa727bade2c0bd961deb3438acc9",
+	"url": "https://github.com/RetGal/Dayon/commit/014db8502f46aa727bade2c0bd961deb3438acc9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "14a5b82ba20a71c8bc45047a2e253f8c392d0f63",
+	"url": "https://github.com/RetGal/Dayon/commit/14a5b82ba20a71c8bc45047a2e253f8c392d0f63",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "a3f258bb2c826c07c3694e50a4019cb60e93e2d4",
+	"url": "https://github.com/RetGal/Dayon/commit/a3f258bb2c826c07c3694e50a4019cb60e93e2d4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "ab9898e5f266ce63c8f094c6a0c9367b48581a7c",
+	"url": "https://github.com/RetGal/Dayon/commit/ab9898e5f266ce63c8f094c6a0c9367b48581a7c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "78123e94695cd0ee2a92d5a1c9089547f984b815",
+	"url": "https://github.com/RetGal/Dayon/commit/78123e94695cd0ee2a92d5a1c9089547f984b815",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "55180e45a6c4579edaef9dd42e464fbd6a7e8a78",
+	"url": "https://github.com/RetGal/Dayon/commit/55180e45a6c4579edaef9dd42e464fbd6a7e8a78",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "67af19c88b270f1978ce606ec001be74b24994b4",
+	"url": "https://github.com/RetGal/Dayon/commit/67af19c88b270f1978ce606ec001be74b24994b4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "be850356883efadcb0b36185527ba8c40bfebac3",
+	"url": "https://github.com/RetGal/Dayon/commit/be850356883efadcb0b36185527ba8c40bfebac3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "3303e862eb5559dda4e675b3f01fc0e56b39485b",
+	"url": "https://github.com/RetGal/Dayon/commit/3303e862eb5559dda4e675b3f01fc0e56b39485b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "3985ac736f3a3b04b36da6f09d1f1912e9170ec0",
+	"url": "https://github.com/RetGal/Dayon/commit/3985ac736f3a3b04b36da6f09d1f1912e9170ec0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "2f521caf9c4dd1965420b5f45335bff32c324dfb",
+	"url": "https://github.com/RetGal/Dayon/commit/2f521caf9c4dd1965420b5f45335bff32c324dfb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "2645295b438b6a94a3907112c91cc7595037c2d3",
+	"url": "https://github.com/RetGal/Dayon/commit/2645295b438b6a94a3907112c91cc7595037c2d3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "2a1e56631e80b46ef9c43a37904b8191eb1b4d72",
+	"url": "https://github.com/RetGal/Dayon/commit/2a1e56631e80b46ef9c43a37904b8191eb1b4d72",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "50db5086b39e53f9988006db1ace554de3bd96dc",
+	"url": "https://github.com/RetGal/Dayon/commit/50db5086b39e53f9988006db1ace554de3bd96dc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c2a072f752cdd5fe53969876957c9895f962e294",
+	"url": "https://github.com/RetGal/Dayon/commit/c2a072f752cdd5fe53969876957c9895f962e294",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "43b07d957a89a9ee9c5efd6be1458bbaa2e40152",
+	"url": "https://github.com/RetGal/Dayon/commit/43b07d957a89a9ee9c5efd6be1458bbaa2e40152",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "cdb6d4a788212e2ccae37028f96609cad01f3371",
+	"url": "https://github.com/RetGal/Dayon/commit/cdb6d4a788212e2ccae37028f96609cad01f3371",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "00ebba0bd5df914cd3699ded532c0c8f25290975",
+	"url": "https://github.com/RetGal/Dayon/commit/00ebba0bd5df914cd3699ded532c0c8f25290975",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "4c98e93cbba7e85053ddbb5fba5742760ea58ebd",
+	"url": "https://github.com/RetGal/Dayon/commit/4c98e93cbba7e85053ddbb5fba5742760ea58ebd",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "293f20d59b00652dadfb66bed81193d749107dd2",
+	"url": "https://github.com/RetGal/Dayon/commit/293f20d59b00652dadfb66bed81193d749107dd2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "9bafa7b4d9c090e2b5fed99244ea4edef9e2f9e0",
+	"url": "https://github.com/RetGal/Dayon/commit/9bafa7b4d9c090e2b5fed99244ea4edef9e2f9e0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "af4a94940653ef5cb8491b63d2369aff99d9a225",
+	"url": "https://github.com/RetGal/Dayon/commit/af4a94940653ef5cb8491b63d2369aff99d9a225",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "2b4a65caca9f26019b12330a9a9a5f9988861cb0",
+	"url": "https://github.com/RetGal/Dayon/commit/2b4a65caca9f26019b12330a9a9a5f9988861cb0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "ef50d056bef190ecebdc763cd0f9af862c71c5a1",
+	"url": "https://github.com/RetGal/Dayon/commit/ef50d056bef190ecebdc763cd0f9af862c71c5a1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c7f3efe2df152e3525a1487a1b49f7f050f47e2e",
+	"url": "https://github.com/RetGal/Dayon/commit/c7f3efe2df152e3525a1487a1b49f7f050f47e2e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "a3e54bf038d3276058a2409606d1ffae9bf69cb2",
+	"url": "https://github.com/RetGal/Dayon/commit/a3e54bf038d3276058a2409606d1ffae9bf69cb2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "36786bb7f5d9570d9d963e01c51c0843b5a9bce7",
+	"url": "https://github.com/RetGal/Dayon/commit/36786bb7f5d9570d9d963e01c51c0843b5a9bce7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "a58449e935edecefca7a9824020f35498a0b077b",
+	"url": "https://github.com/RetGal/Dayon/commit/a58449e935edecefca7a9824020f35498a0b077b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "636cca6a0412148b79f5b45419ec086c01167c09",
+	"url": "https://github.com/RetGal/Dayon/commit/636cca6a0412148b79f5b45419ec086c01167c09",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "8d66b8f78affad586fa30892ead2c04292b3733f",
+	"url": "https://github.com/RetGal/Dayon/commit/8d66b8f78affad586fa30892ead2c04292b3733f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "bbd6ab86f5906c4eb1026dd2aff34d5c6a23c207",
+	"url": "https://github.com/RetGal/Dayon/commit/bbd6ab86f5906c4eb1026dd2aff34d5c6a23c207",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "284c41ecb0dd7a6e7a7a0306f38d583c72347c90",
+	"url": "https://github.com/RetGal/Dayon/commit/284c41ecb0dd7a6e7a7a0306f38d583c72347c90",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "284c41ecb0dd7a6e7a7a0306f38d583c72347c90",
+	"url": "https://github.com/RetGal/Dayon/commit/284c41ecb0dd7a6e7a7a0306f38d583c72347c90",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c2e2c449fbedb781964b11f77db0ed5b5e3ae722",
+	"url": "https://github.com/RetGal/Dayon/commit/c2e2c449fbedb781964b11f77db0ed5b5e3ae722",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "7ef7f601743b4bce9ffdc6614919fa5e927e6be8",
+	"url": "https://github.com/RetGal/Dayon/commit/7ef7f601743b4bce9ffdc6614919fa5e927e6be8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "4be70d9624e7b8fed1fbc67ce3e3d30cd9ce47f7",
+	"url": "https://github.com/RetGal/Dayon/commit/4be70d9624e7b8fed1fbc67ce3e3d30cd9ce47f7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "73fc4cfde93bdab109f6fbc2aaed106d7939fb74",
+	"url": "https://github.com/RetGal/Dayon/commit/73fc4cfde93bdab109f6fbc2aaed106d7939fb74",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "14fa8531f0e13bbee1032b0530a72804f11c8729",
+	"url": "https://github.com/RetGal/Dayon/commit/14fa8531f0e13bbee1032b0530a72804f11c8729",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "6ac9bea6cf674b7f0454dc7c00424f5348e4897c",
+	"url": "https://github.com/RetGal/Dayon/commit/6ac9bea6cf674b7f0454dc7c00424f5348e4897c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c0b7dfc32a1eae32b1d0cd12a27c7cb31d110d89",
+	"url": "https://github.com/RetGal/Dayon/commit/c0b7dfc32a1eae32b1d0cd12a27c7cb31d110d89",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c505ead70940acbd0165d1f75c72e9df2b12ff3d",
+	"url": "https://github.com/RetGal/Dayon/commit/c505ead70940acbd0165d1f75c72e9df2b12ff3d",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c4941f9990578d532c2ca253609bd73ef7cb3195",
+	"url": "https://github.com/RetGal/Dayon/commit/c4941f9990578d532c2ca253609bd73ef7cb3195",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "9d154e7f5cdf8d772610337969708a4876609ab8",
+	"url": "https://github.com/RetGal/Dayon/commit/9d154e7f5cdf8d772610337969708a4876609ab8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "6674749c91d34bff311a81b4a5c37e978c789c40",
+	"url": "https://github.com/RetGal/Dayon/commit/6674749c91d34bff311a81b4a5c37e978c789c40",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "014db8502f46aa727bade2c0bd961deb3438acc9",
+	"url": "https://github.com/RetGal/Dayon/commit/014db8502f46aa727bade2c0bd961deb3438acc9",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "14a5b82ba20a71c8bc45047a2e253f8c392d0f63",
+	"url": "https://github.com/RetGal/Dayon/commit/14a5b82ba20a71c8bc45047a2e253f8c392d0f63",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "a3f258bb2c826c07c3694e50a4019cb60e93e2d4",
+	"url": "https://github.com/RetGal/Dayon/commit/a3f258bb2c826c07c3694e50a4019cb60e93e2d4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "ab9898e5f266ce63c8f094c6a0c9367b48581a7c",
+	"url": "https://github.com/RetGal/Dayon/commit/ab9898e5f266ce63c8f094c6a0c9367b48581a7c",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "78123e94695cd0ee2a92d5a1c9089547f984b815",
+	"url": "https://github.com/RetGal/Dayon/commit/78123e94695cd0ee2a92d5a1c9089547f984b815",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "55180e45a6c4579edaef9dd42e464fbd6a7e8a78",
+	"url": "https://github.com/RetGal/Dayon/commit/55180e45a6c4579edaef9dd42e464fbd6a7e8a78",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "67af19c88b270f1978ce606ec001be74b24994b4",
+	"url": "https://github.com/RetGal/Dayon/commit/67af19c88b270f1978ce606ec001be74b24994b4",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "be850356883efadcb0b36185527ba8c40bfebac3",
+	"url": "https://github.com/RetGal/Dayon/commit/be850356883efadcb0b36185527ba8c40bfebac3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "3303e862eb5559dda4e675b3f01fc0e56b39485b",
+	"url": "https://github.com/RetGal/Dayon/commit/3303e862eb5559dda4e675b3f01fc0e56b39485b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "3985ac736f3a3b04b36da6f09d1f1912e9170ec0",
+	"url": "https://github.com/RetGal/Dayon/commit/3985ac736f3a3b04b36da6f09d1f1912e9170ec0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "2f521caf9c4dd1965420b5f45335bff32c324dfb",
+	"url": "https://github.com/RetGal/Dayon/commit/2f521caf9c4dd1965420b5f45335bff32c324dfb",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "2645295b438b6a94a3907112c91cc7595037c2d3",
+	"url": "https://github.com/RetGal/Dayon/commit/2645295b438b6a94a3907112c91cc7595037c2d3",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "2a1e56631e80b46ef9c43a37904b8191eb1b4d72",
+	"url": "https://github.com/RetGal/Dayon/commit/2a1e56631e80b46ef9c43a37904b8191eb1b4d72",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "50db5086b39e53f9988006db1ace554de3bd96dc",
+	"url": "https://github.com/RetGal/Dayon/commit/50db5086b39e53f9988006db1ace554de3bd96dc",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c2a072f752cdd5fe53969876957c9895f962e294",
+	"url": "https://github.com/RetGal/Dayon/commit/c2a072f752cdd5fe53969876957c9895f962e294",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "43b07d957a89a9ee9c5efd6be1458bbaa2e40152",
+	"url": "https://github.com/RetGal/Dayon/commit/43b07d957a89a9ee9c5efd6be1458bbaa2e40152",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "cdb6d4a788212e2ccae37028f96609cad01f3371",
+	"url": "https://github.com/RetGal/Dayon/commit/cdb6d4a788212e2ccae37028f96609cad01f3371",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "00ebba0bd5df914cd3699ded532c0c8f25290975",
+	"url": "https://github.com/RetGal/Dayon/commit/00ebba0bd5df914cd3699ded532c0c8f25290975",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "4c98e93cbba7e85053ddbb5fba5742760ea58ebd",
+	"url": "https://github.com/RetGal/Dayon/commit/4c98e93cbba7e85053ddbb5fba5742760ea58ebd",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "293f20d59b00652dadfb66bed81193d749107dd2",
+	"url": "https://github.com/RetGal/Dayon/commit/293f20d59b00652dadfb66bed81193d749107dd2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "9bafa7b4d9c090e2b5fed99244ea4edef9e2f9e0",
+	"url": "https://github.com/RetGal/Dayon/commit/9bafa7b4d9c090e2b5fed99244ea4edef9e2f9e0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "af4a94940653ef5cb8491b63d2369aff99d9a225",
+	"url": "https://github.com/RetGal/Dayon/commit/af4a94940653ef5cb8491b63d2369aff99d9a225",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "2b4a65caca9f26019b12330a9a9a5f9988861cb0",
+	"url": "https://github.com/RetGal/Dayon/commit/2b4a65caca9f26019b12330a9a9a5f9988861cb0",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "ef50d056bef190ecebdc763cd0f9af862c71c5a1",
+	"url": "https://github.com/RetGal/Dayon/commit/ef50d056bef190ecebdc763cd0f9af862c71c5a1",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c7f3efe2df152e3525a1487a1b49f7f050f47e2e",
+	"url": "https://github.com/RetGal/Dayon/commit/c7f3efe2df152e3525a1487a1b49f7f050f47e2e",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "a3e54bf038d3276058a2409606d1ffae9bf69cb2",
+	"url": "https://github.com/RetGal/Dayon/commit/a3e54bf038d3276058a2409606d1ffae9bf69cb2",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "36786bb7f5d9570d9d963e01c51c0843b5a9bce7",
+	"url": "https://github.com/RetGal/Dayon/commit/36786bb7f5d9570d9d963e01c51c0843b5a9bce7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "a58449e935edecefca7a9824020f35498a0b077b",
+	"url": "https://github.com/RetGal/Dayon/commit/a58449e935edecefca7a9824020f35498a0b077b",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "636cca6a0412148b79f5b45419ec086c01167c09",
+	"url": "https://github.com/RetGal/Dayon/commit/636cca6a0412148b79f5b45419ec086c01167c09",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "8d66b8f78affad586fa30892ead2c04292b3733f",
+	"url": "https://github.com/RetGal/Dayon/commit/8d66b8f78affad586fa30892ead2c04292b3733f",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "bbd6ab86f5906c4eb1026dd2aff34d5c6a23c207",
+	"url": "https://github.com/RetGal/Dayon/commit/bbd6ab86f5906c4eb1026dd2aff34d5c6a23c207",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "284c41ecb0dd7a6e7a7a0306f38d583c72347c90",
+	"url": "https://github.com/RetGal/Dayon/commit/284c41ecb0dd7a6e7a7a0306f38d583c72347c90",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "284c41ecb0dd7a6e7a7a0306f38d583c72347c90",
+	"url": "https://github.com/RetGal/Dayon/commit/284c41ecb0dd7a6e7a7a0306f38d583c72347c90",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "c2e2c449fbedb781964b11f77db0ed5b5e3ae722",
+	"url": "https://github.com/RetGal/Dayon/commit/c2e2c449fbedb781964b11f77db0ed5b5e3ae722",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "7ef7f601743b4bce9ffdc6614919fa5e927e6be8",
+	"url": "https://github.com/RetGal/Dayon/commit/7ef7f601743b4bce9ffdc6614919fa5e927e6be8",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "4be70d9624e7b8fed1fbc67ce3e3d30cd9ce47f7",
+	"url": "https://github.com/RetGal/Dayon/commit/4be70d9624e7b8fed1fbc67ce3e3d30cd9ce47f7",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "73fc4cfde93bdab109f6fbc2aaed106d7939fb74",
+	"url": "https://github.com/RetGal/Dayon/commit/73fc4cfde93bdab109f6fbc2aaed106d7939fb74",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "14fa8531f0e13bbee1032b0530a72804f11c8729",
+	"url": "https://github.com/RetGal/Dayon/commit/14fa8531f0e13bbee1032b0530a72804f11c8729",
+	"refactorings": []
+},
+{
+	"repository": "https://github.com/RetGal/Dayon.git",
+	"sha1": "6ac9bea6cf674b7f0454dc7c00424f5348e4897c",
+	"url": "https://github.com/RetGal/Dayon/commit/6ac9bea6cf674b7f0454dc7c00424f5348e4897c",
+	"refactorings": []
+}]
+}

@@ -1,0 +1,462 @@
+{
+"commits": [
+{
+	"repository": "https://github.com/junit-team/junit4.git",
+	"sha1": "cceaf19c554f9c0bcd51223ad99fc77f31f9e877",
+	"url": "https://github.com/junit-team/junit4/commit/cceaf19c554f9c0bcd51223ad99fc77f31f9e877",
+	"refactorings": [{
+	"type": "Replace NOT operator",
+	"description": "Replace NOT operator",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/junit/samples/ListTest.java",
+		"startLine": 41,
+		"endLine": 41,
+		"startColumn": 9,
+		"endColumn": 43,
+		"codeElementType": "METHOD_INVOCATION",
+		"description": "original assert method invocation",
+		"codeElement": "assertTrue(arg0)"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/junit/samples/ListTest.java",
+		"startLine": 41,
+		"endLine": 41,
+		"startColumn": 9,
+		"endColumn": 43,
+		"codeElementType": "METHOD_INVOCATION",
+		"description": "method invocation after replacing the not operator",
+		"codeElement": "assertFalse(arg0)"
+}]
+},
+{
+	"type": "Replace NOT operator",
+	"description": "Replace NOT operator",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/junit/samples/ListTest.java",
+		"startLine": 65,
+		"endLine": 65,
+		"startColumn": 9,
+		"endColumn": 42,
+		"codeElementType": "METHOD_INVOCATION",
+		"description": "original assert method invocation",
+		"codeElement": "assertTrue(arg0)"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/junit/samples/ListTest.java",
+		"startLine": 65,
+		"endLine": 65,
+		"startColumn": 9,
+		"endColumn": 42,
+		"codeElementType": "METHOD_INVOCATION",
+		"description": "method invocation after replacing the not operator",
+		"codeElement": "assertFalse(arg0)"
+}]
+}
+]
+},
+{
+	"repository": "https://github.com/junit-team/junit4.git",
+	"sha1": "0038617a0a6c70c712cf30b90c849db518f3715f",
+	"url": "https://github.com/junit-team/junit4/commit/0038617a0a6c70c712cf30b90c849db518f3715f",
+	"refactorings": [{
+	"type": "Remove Thrown Exception Type",
+	"description": "Remove Thrown Exception Type Throwable in method public throwsTestTimedOutException() : void from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 38,
+		"endLine": 38,
+		"startColumn": 54,
+		"endColumn": 63,
+		"codeElementType": "TYPE",
+		"description": "removed thrown exception type",
+		"codeElement": "Throwable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 37,
+		"endLine": 41,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "public throwsTestTimedOutException() : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 34,
+		"endLine": 39,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with removed thrown exception type",
+		"codeElement": "public throwsTestTimedOutException() : void"
+}]
+},
+{
+	"type": "Remove Thrown Exception Type",
+	"description": "Remove Thrown Exception Type Throwable in method public throwExceptionWithNiceMessageOnTimeout() : void from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 44,
+		"endLine": 44,
+		"startColumn": 65,
+		"endColumn": 74,
+		"codeElementType": "TYPE",
+		"description": "removed thrown exception type",
+		"codeElement": "Throwable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 43,
+		"endLine": 47,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "public throwExceptionWithNiceMessageOnTimeout() : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 41,
+		"endLine": 47,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with removed thrown exception type",
+		"codeElement": "public throwExceptionWithNiceMessageOnTimeout() : void"
+}]
+},
+{
+	"type": "Remove Thrown Exception Type",
+	"description": "Remove Thrown Exception Type Throwable in method public sendUpExceptionThrownByStatement() : void from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 50,
+		"endLine": 50,
+		"startColumn": 59,
+		"endColumn": 68,
+		"codeElementType": "TYPE",
+		"description": "removed thrown exception type",
+		"codeElement": "Throwable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 49,
+		"endLine": 54,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "public sendUpExceptionThrownByStatement() : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 49,
+		"endLine": 56,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with removed thrown exception type",
+		"codeElement": "public sendUpExceptionThrownByStatement() : void"
+}]
+},
+{
+	"type": "Remove Thrown Exception Type",
+	"description": "Remove Thrown Exception Type Throwable in method public throwTimeoutExceptionOnSecondCallAlthoughFirstCallThrowsException() : void from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 66,
+		"endLine": 66,
+		"startColumn": 20,
+		"endColumn": 29,
+		"codeElementType": "TYPE",
+		"description": "removed thrown exception type",
+		"codeElement": "Throwable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 64,
+		"endLine": 73,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "public throwTimeoutExceptionOnSecondCallAlthoughFirstCallThrowsException() : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 67,
+		"endLine": 78,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with removed thrown exception type",
+		"codeElement": "public throwTimeoutExceptionOnSecondCallAlthoughFirstCallThrowsException() : void"
+}]
+},
+{
+	"type": "Remove Thrown Exception Type",
+	"description": "Remove Thrown Exception Type Throwable in method public throwsExceptionWithTimeoutValueAndTimeUnitSet() : void from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 77,
+		"endLine": 77,
+		"startColumn": 20,
+		"endColumn": 29,
+		"codeElementType": "TYPE",
+		"description": "removed thrown exception type",
+		"codeElement": "Throwable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 75,
+		"endLine": 85,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "public throwsExceptionWithTimeoutValueAndTimeUnitSet() : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 80,
+		"endLine": 87,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with removed thrown exception type",
+		"codeElement": "public throwsExceptionWithTimeoutValueAndTimeUnitSet() : void"
+}]
+},
+{
+	"type": "Add Parameter Modifier",
+	"description": "Add Parameter Modifier final in parameter exception : Exception in method private evaluateWithException(exception Exception) : ThrowingRunnable from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 87,
+		"endLine": 87,
+		"startColumn": 40,
+		"endColumn": 59,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "original variable declaration",
+		"codeElement": "exception : Exception"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 87,
+		"endLine": 91,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "private evaluateWithException(exception Exception) : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 89,
+		"endLine": 89,
+		"startColumn": 52,
+		"endColumn": 77,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "variable declaration with added modifier",
+		"codeElement": "exception : Exception"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 89,
+		"endLine": 97,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with added variable modifier",
+		"codeElement": "private evaluateWithException(exception Exception) : ThrowingRunnable"
+}]
+},
+{
+	"type": "Change Return Type",
+	"description": "Change Return Type void to ThrowingRunnable in method private evaluateWithException(exception Exception) : ThrowingRunnable from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 87,
+		"endLine": 87,
+		"startColumn": 13,
+		"endColumn": 17,
+		"codeElementType": "TYPE",
+		"description": "original return type",
+		"codeElement": "void"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 87,
+		"endLine": 91,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "private evaluateWithException(exception Exception) : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 89,
+		"endLine": 89,
+		"startColumn": 13,
+		"endColumn": 29,
+		"codeElementType": "TYPE",
+		"description": "changed return type",
+		"codeElement": "ThrowingRunnable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 89,
+		"endLine": 97,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with changed return type",
+		"codeElement": "private evaluateWithException(exception Exception) : ThrowingRunnable"
+}]
+},
+{
+	"type": "Remove Thrown Exception Type",
+	"description": "Remove Thrown Exception Type Throwable in method private evaluateWithException(exception Exception) : void from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 87,
+		"endLine": 87,
+		"startColumn": 68,
+		"endColumn": 77,
+		"codeElementType": "TYPE",
+		"description": "removed thrown exception type",
+		"codeElement": "Throwable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 87,
+		"endLine": 91,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "private evaluateWithException(exception Exception) : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 89,
+		"endLine": 97,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with removed thrown exception type",
+		"codeElement": "private evaluateWithException(exception Exception) : ThrowingRunnable"
+}]
+},
+{
+	"type": "Add Parameter Modifier",
+	"description": "Add Parameter Modifier final in parameter waitDuration : long in method private evaluateWithWaitDuration(waitDuration long) : ThrowingRunnable from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 93,
+		"endLine": 93,
+		"startColumn": 43,
+		"endColumn": 60,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "original variable declaration",
+		"codeElement": "waitDuration : long"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 93,
+		"endLine": 97,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "private evaluateWithWaitDuration(waitDuration long) : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 99,
+		"endLine": 99,
+		"startColumn": 55,
+		"endColumn": 78,
+		"codeElementType": "SINGLE_VARIABLE_DECLARATION",
+		"description": "variable declaration with added modifier",
+		"codeElement": "waitDuration : long"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 99,
+		"endLine": 107,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with added variable modifier",
+		"codeElement": "private evaluateWithWaitDuration(waitDuration long) : ThrowingRunnable"
+}]
+},
+{
+	"type": "Change Return Type",
+	"description": "Change Return Type void to ThrowingRunnable in method private evaluateWithWaitDuration(waitDuration long) : ThrowingRunnable from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 93,
+		"endLine": 93,
+		"startColumn": 13,
+		"endColumn": 17,
+		"codeElementType": "TYPE",
+		"description": "original return type",
+		"codeElement": "void"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 93,
+		"endLine": 97,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "private evaluateWithWaitDuration(waitDuration long) : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 99,
+		"endLine": 99,
+		"startColumn": 13,
+		"endColumn": 29,
+		"codeElementType": "TYPE",
+		"description": "changed return type",
+		"codeElement": "ThrowingRunnable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 99,
+		"endLine": 107,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with changed return type",
+		"codeElement": "private evaluateWithWaitDuration(waitDuration long) : ThrowingRunnable"
+}]
+},
+{
+	"type": "Remove Thrown Exception Type",
+	"description": "Remove Thrown Exception Type Throwable in method private evaluateWithWaitDuration(waitDuration long) : void from class org.junit.internal.runners.statements.FailOnTimeoutTest",
+	"leftSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 93,
+		"endLine": 93,
+		"startColumn": 69,
+		"endColumn": 78,
+		"codeElementType": "TYPE",
+		"description": "removed thrown exception type",
+		"codeElement": "Throwable"
+}, {
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 93,
+		"endLine": 97,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "original method declaration",
+		"codeElement": "private evaluateWithWaitDuration(waitDuration long) : void"
+}],
+	"rightSideLocations": [{
+		"filePath": "src/test/java/org/junit/internal/runners/statements/FailOnTimeoutTest.java",
+		"startLine": 99,
+		"endLine": 107,
+		"startColumn": 5,
+		"endColumn": 6,
+		"codeElementType": "METHOD_DECLARATION",
+		"description": "method declaration with removed thrown exception type",
+		"codeElement": "private evaluateWithWaitDuration(waitDuration long) : ThrowingRunnable"
+}]
+}
+]
+}]
+}
