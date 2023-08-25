@@ -1,12 +1,12 @@
 import edu.rit.se.testsmells.MappingDetector;
 import entity.ClassEntity;
-import org.eclipse.jgit.api.CheckoutCommand;
 import org.eclipse.jgit.api.Git;
 import org.eclipse.jgit.api.ResetCommand;
 import org.eclipse.jgit.api.errors.GitAPIException;
 import org.eclipse.jgit.lib.Repository;
-import org.eclipse.jgit.storage.file.FileRepositoryBuilder;
 import org.kohsuke.github.GHFileNotFoundException;
+import org.kohsuke.github.GHRepository;
+import org.kohsuke.github.GitHub;
 import org.refactoringminer.api.GitHistoryRefactoringMiner;
 import org.refactoringminer.api.GitService;
 import org.refactoringminer.api.Refactoring;
@@ -17,12 +17,12 @@ import testsmell.TestFile;
 import testsmell.TestSmellDetector;
 import thresholds.DefaultThresholds;
 
-import java.io.*;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.nio.file.*;
 import java.util.*;
-
-import org.kohsuke.github.GHRepository;
-import org.kohsuke.github.GitHub;
 
 public class Main {
 
@@ -30,6 +30,7 @@ public class Main {
     static TestSmellDetector testSmellDetector = new TestSmellDetector(new DefaultThresholds());
     static TsDetectWritter resultsWriter;
     private static Path path = null;
+    private static FileWriter myWriter = null;
 
     public static void main(String[] args) throws IOException {
 
@@ -40,17 +41,47 @@ public class Main {
         }
 
         // Retrieving the projects data
+
+        Map<String, List<Project>> analyzedMap = null;
+        Map<String, List<Project>> generalMap = null;
         Map<String, List<Project>> commitsById = null;
+        String errorPath = "";
+        String saveAnalyzedPath = "";
+
         if (!args[0].isEmpty()) {
             File inputFile = new File(args[0]);
             if (!inputFile.exists() || inputFile.isDirectory()) {
                 System.out.println("Please provide a valid file with the projects info");
                 return;
             }
-            else{
-                commitsById = readCSV(inputFile);
+            else {
+                int lastBackslashIndex = args[0].lastIndexOf(File.separator);
+                if (lastBackslashIndex >= 0) {
+                    String rootPath = args[0].substring(0, lastBackslashIndex);
+                    errorPath = rootPath + File.separator+"error.txt";
+                    String analyzedPath = args[0].substring(lastBackslashIndex + 1);
+                    File a = new File(rootPath);
+                    saveAnalyzedPath = a.getAbsolutePath()+File.separator+"Analyzed_"+analyzedPath;
+                }
+                generalMap = readCSV(inputFile);
             }
         }
+
+        File inputAnalyzedFile = new File(saveAnalyzedPath);
+        if (inputAnalyzedFile.exists()){
+            analyzedMap = readCSV(inputAnalyzedFile);
+            commitsById = compare(generalMap, analyzedMap);
+        } else{
+            commitsById = generalMap;
+            try {
+                myWriter = new FileWriter(inputAnalyzedFile.getAbsolutePath(),true);
+                myWriter.write("ID,OWNER,REPO,TAGS,SHA"+"\n");
+                myWriter.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+
 
         File tsDetectOutput = null;
         File tRefOutput = null;
@@ -76,53 +107,86 @@ public class Main {
 
         // Clone the project repository
         for (Map.Entry<String, List<Project>> entry : commitsById.entrySet()) {
-            String id = entry.getKey();
-            List<Project> commitList = entry.getValue();
+            try {
+                String id = entry.getKey();
+                List<Project> commitList = entry.getValue();
 
-            // Clone project
-            File repository = cloningRepository(id, cloneOutput.getAbsolutePath());
+                // Clone project
+                File repository = cloningRepository(id, cloneOutput.getAbsolutePath());
 
-            // Configuring TestRefactoringMiner
-            String fileName = id.replace("/", "-");
-            processJSONoption(tRefOutput.getAbsolutePath()+"/"+fileName+".json");
-            startJSON();
+                // Configuring TestRefactoringMiner
+                String fileName = id.replace("/", "-");
+                processJSONoption(tRefOutput.getAbsolutePath()+File.separator+fileName+".json");
+                startJSON();
 
-            // Configuring tsDetect
-            resultsWriter = TsDetectWritter.createResultsWriter(tsDetectOutput.getAbsolutePath()+"/"+fileName);
-            List<String> columnNames;
+                // Configuring tsDetect
+                resultsWriter = TsDetectWritter.createResultsWriter(tsDetectOutput.getAbsolutePath()+File.separator+fileName);
+                List<String> columnNames;
 
-            columnNames = testSmellDetector.getTestSmellNames();
-            columnNames.add(0, "App");
-            columnNames.add(1, "SHA");
-            columnNames.add(2, "TestClass");
-            columnNames.add(3, "TestFilePath");
-            columnNames.add(4, "ProductionFilePath");
-            columnNames.add(5, "RelativeTestFilePath");
-            columnNames.add(6, "RelativeProductionFilePath");
-            columnNames.add(7, "NumberOfMethods");
+                columnNames = testSmellDetector.getTestSmellNames();
+                columnNames.add(0, "App");
+                columnNames.add(1, "SHA");
+                columnNames.add(2, "TestClass");
+                columnNames.add(3, "TestFilePath");
+                columnNames.add(4, "ProductionFilePath");
+                columnNames.add(5, "RelativeTestFilePath");
+                columnNames.add(6, "RelativeProductionFilePath");
+                columnNames.add(7, "NumberOfMethods");
 
-            resultsWriter.writeColumnName(columnNames);
+                resultsWriter.writeColumnName(columnNames);
 
-            System.out.println("-------------- START PROJECT --------------");
-            int betweenJ = 0;
-            for (int i = 0; i < commitList.size(); i++) {
-                System.out.println("Analyzing "+repository+ "   "+ commitList.get(i).getSha());
-                runTestRefactoringMiner(repository, commitList.get(i).getSha());
-                if (betweenJ < commitList.size()-1){
-                    betweenJSON();
+                System.out.println("-------------- START PROJECT --------------");
+                int betweenJ = 0;
+                for (int i = 0; i < commitList.size(); i++) {
+                    try {
+                        System.out.println("Analyzing "+repository+ "   "+ commitList.get(i).getSha());
+                        runTestRefactoringMiner(repository, commitList.get(i).getSha());
+                        if (betweenJ < commitList.size() - 1) {
+                            betweenJSON();
+                        }
+                    } catch(Exception e) {
+                        saveError(repository.getName(), commitList.get(i).getSha(), "TestRefactoringMiner", errorPath);
+                    }
+                    betweenJ++;
+                    try{
+                        runTsDetect(id, repository.getAbsolutePath(), commitList.get(i).getSha());
+                    } catch (Exception e) {
+                        saveError(repository.getName(), commitList.get(i).getSha(), "tsDetect", errorPath);
+                    }
                 }
-                betweenJ++;
-                runTsDetect(id, repository.getAbsolutePath(), commitList.get(i).getSha());
+                endJSON();
+                System.out.println("-------------- END PROJECT --------------");
+            }catch (Exception e) {
+                saveError(entry.getKey(), "", "Clonning", errorPath);
             }
-            endJSON();
-            System.out.println("-------------- END PROJECT --------------");
-
-
-
+            saveCSV(entry.getKey(), entry.getValue(), saveAnalyzedPath);
         }
 
+    }
 
+    private static void saveCSV(String key, List<Project> value, String path) {
 
+        try {
+            FileWriter myWriter = new FileWriter(path,true);
+            myWriter.write(value.get(0).getId()+","
+                    + value.get(0).getOwner()+","
+                    + value.get(0).getRepo()+","
+                    + value.get(0).getTag()+","
+                    + value.get(0).getSha()+
+                    "\n");
+            myWriter.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static Map<String, List<Project>> compare( Map<String, List<Project>>generalMap,  Map<String, List<Project>>analyzedMap) {;
+        for (String key : analyzedMap.keySet()) {
+            if (generalMap.containsKey(key)) {
+                generalMap.remove(key);
+            }
+        }
+        return generalMap;
     }
 
     private static void runTsDetect(String id, String rootDirectory, String sha) {
@@ -152,7 +216,7 @@ public class Main {
                     try {
                         classEntity = testFileDetector.runAnalysis(file);
                         mappingDetector = new MappingDetector();
-                        System.out.println(classEntity.getFilePath());
+                       // System.out.println(classEntity.getFilePath());
                         testFileSimplified.add(mappingDetector.detectMapping(rootDirectory
                                 + "," + classEntity.getFilePath()));
                     } catch (Exception e) {
@@ -208,6 +272,8 @@ public class Main {
                 }
             } catch (IOException e) {
                 throw new RuntimeException(e);
+            } catch (IndexOutOfBoundsException e) {
+                throw new RuntimeException(e);
             }
         } catch (IOException | GitAPIException e) {
             e.printStackTrace();
@@ -215,7 +281,7 @@ public class Main {
     }
 
     private static void runTestRefactoringMiner(File repositoryFile, String commitId) {
-        System.out.println(repositoryFile.getAbsolutePath() + "   "+ commitId);
+       // System.out.println(repositoryFile.getAbsolutePath() + "   "+ commitId);
 
 
         GitService gitService = new GitServiceImpl();
@@ -356,11 +422,10 @@ public class Main {
         GHRepository repository = null;
         if(!directory.exists()){
             directory.mkdir();
-            try {
+            try{
                 GitHub github  = GitHub.connectAnonymously(); //GitHub.connectUsingOAuth("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"); // Add your key
                 repository = github.getRepository(repoName);
-                System.out.println("Cloning : " + repository.getName());
-
+                System.out.println("Cloning : " + repository.getFullName());
                 Git.cloneRepository().setURI(repository.getHttpTransportUrl())
                         .setBranch(repository.getDefaultBranch())
                         .setDirectory(directory)
@@ -376,6 +441,16 @@ public class Main {
             }
         }
         return directory;
+    }
+
+    private static void saveError(String repository, String SHA, String step, String listFile) {
+        try {
+            FileWriter myWriter = new FileWriter(listFile,true);
+            myWriter.write(repository +", "+SHA+", "+step+"\n");
+            myWriter.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 }
 
