@@ -145,13 +145,13 @@ public class Main {
                             betweenJSON();
                         }
                     } catch(Exception e) {
-                        saveError(repository.getName(), commitList.get(i).getSha(), "TestRefactoringMiner", errorPath);
+                        saveError(id, commitList.get(i).getSha(), "TestRefactoringMiner", errorPath);
                     }
                     betweenJ++;
                     try{
                         runTsDetect(id, repository.getAbsolutePath(), commitList.get(i).getSha());
                     } catch (Exception e) {
-                        saveError(repository.getName(), commitList.get(i).getSha(), "tsDetect", errorPath);
+                        saveError(id, commitList.get(i).getSha(), "tsDetect", errorPath);
                     }
                 }
                 endJSON();
